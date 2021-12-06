@@ -15,7 +15,7 @@ function connectSockets(http, session) {
             console.log('Someone disconnected')
         })
         socket.on('chat topic', topic => {
-            console.log('socket topic is:', topic)
+            console.log('socket topic is:', topic +' for socket: ' + socket.id)
             if (socket.myTopic === topic) return;
             if (socket.myTopic) {
                 socket.leave(socket.myTopic)
@@ -41,6 +41,15 @@ function connectSockets(http, session) {
         socket.on('unset-user-socket', () => {
             delete socket.userId
             console.log('unset-user-socket -> user loged out' )
+        }),
+        socket.on('send share-listen', stationSongIdx => {
+            console.log('Emitting station ' + stationSongIdx.station._id + ' ' +stationSongIdx.idx);
+            // emits to all sockets:
+            // gIo.emit('chat addMsg', msg)
+            
+            // emits only to sockets in the same room
+            // gIo.to(socket.myTopic).emit('get share-listen', stationSongIdx)
+            socket.broadcast.to(socket.myTopic).emit('get share-listen', stationSongIdx)
         })
 
     })
@@ -102,6 +111,11 @@ async function _printSockets() {
 function _printSocket(socket) {
     console.log(`Socket - socketId: ${socket.id} userId: ${socket.userId}`)
 }
+
+
+
+
+
 
 module.exports = {
     connectSockets,

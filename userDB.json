@@ -1,0 +1,24 @@
+
+
+[
+    {
+        "username":"Patefon",
+        "fullname" : "Patefon",
+        "password" :"1234",
+        "isAdmin" : true,
+        "searchHistory":[],
+        "likedSongs":[],
+        "following":[]
+    },
+    {
+        "username":"guest",
+        "fullname" : "guest guest",
+        "password" :"1234",
+        "isAdmin" : false,
+        "searchHistory":[],
+        "likedSongs":[],
+        "following":[]
+    }
+]
+
+

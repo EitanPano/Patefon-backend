@@ -42,18 +42,27 @@ function connectSockets(http, session) {
             delete socket.userId
             console.log('unset-user-socket -> user loged out' )
         }),
-        socket.on('send share-listen', stationSongIdx => {
-            console.log('Emitting station ' + stationSongIdx.station._id + ' ' +stationSongIdx.idx);
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
-            
+        socket.on('send share-listen', playerData => {
+            console.log('Emitting playerData: songIdx: ' + playerData.songIdx + '  songCurrentTime' +playerData.currentTime);
+        
             // emits only to sockets in the same room
             // gIo.to(socket.myTopic).emit('get share-listen', stationSongIdx)
-            socket.broadcast.to(socket.myTopic).emit('get share-listen', stationSongIdx)
+            socket.broadcast.to(socket.myTopic).emit('get share-listen', playerData)
+        })
+        socket.on('send announcements', msg => {
+            console.log('Emitting announcements: '+ msg);
+           // emits to all sockets:
+            gIo.emit('get announcements', msg)
+
+
+            // emits only to sockets in the same room
+            // gIo.to(socket.myTopic).emit('get share-listen', stationSongIdx)
+            // socket.broadcast.to(socket.myTopic).emit('get share-listen', playerData)
         })
 
     })
 }
+
 
 function emitTo({ type, data, label }) {
     if (label) gIo.to('watching:' + label).emit(type, data)

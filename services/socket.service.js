@@ -24,9 +24,10 @@ function connectSockets(http, session) {
             socket.join(topic)
             socket.myTopic = topic
 
-            if (gSocketCounterToTopics[topic]) gSocketCounterToTopics[topic]++
-            else gSocketCounterToTopics[topic] = 1;
-            gIo.emit('get socketCounterToTopics', gSocketCounterToTopics)
+            // if (gSocketCounterToTopics[topic]) gSocketCounterToTopics[topic]++
+            // else gSocketCounterToTopics[topic] = 1;
+            // gIo.emit('get socketCounterToTopics', gSocketCounterToTopics)
+             socket.broadcast.to(socket.myTopic).emit('get socketCounterToTopics', 'someone entered the station')
         })
         socket.on('chat newMsg', msg => {
             console.log('Emitting Chat msg', msg);

@@ -10,12 +10,12 @@ function connectSockets(http, session) {
         }
     })
     gIo.on('connection', socket => {
-        console.log('New socket', socket.id)
+        // console.log('New socket', socket.id)
         socket.on('disconnect', socket => {
-            console.log('Someone disconnected')
+            // console.log('Someone disconnected')
         })
         socket.on('chat topic', topic => {
-            console.log('socket topic is:', topic +' for socket: ' + socket.id)
+            // console.log('socket topic is:', topic +' for socket: ' + socket.id)
             if (socket.myTopic === topic) return;
             if (socket.myTopic) {
                 socket.leave(socket.myTopic)
@@ -24,7 +24,7 @@ function connectSockets(http, session) {
             socket.myTopic = topic
         })
         socket.on('chat newMsg', msg => {
-            console.log('Emitting Chat msg', msg);
+            // console.log('Emitting Chat msg', msg);
             // emits to all sockets:
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
@@ -40,17 +40,17 @@ function connectSockets(http, session) {
         })
         socket.on('unset-user-socket', () => {
             delete socket.userId
-            console.log('unset-user-socket -> user loged out' )
+            // console.log('unset-user-socket -> user loged out' )
         }),
         socket.on('send share-listen', playerData => {
-            console.log('Emitting playerData: songIdx: ' + playerData.songIdx + '  songCurrentTime' +playerData.currentTime);
+            // console.log('Emitting playerData: songIdx: ' + playerData.songIdx + '  songCurrentTime' +playerData.currentTime);
         
             // emits only to sockets in the same room
             // gIo.to(socket.myTopic).emit('get share-listen', stationSongIdx)
             socket.broadcast.to(socket.myTopic).emit('get share-listen', playerData)
         })
         socket.on('send announcements', msg => {
-            console.log('Emitting announcements: '+ msg);
+            // console.log('Emitting announcements: '+ msg);
            // emits to all sockets:
             gIo.emit('get announcements', msg)
 
@@ -74,14 +74,14 @@ async function emitToUser({ type, data, userId }) {
     const socket = await _getUserSocket(userId)
     if (socket) socket.emit(type, data)
     else {
-        console.log('User socket not found');
+        // console.log('User socket not found');
         _printSockets();
     }
 }
 
 // Send to all sockets BUT not the current socket 
 async function broadcast({ type, data, room = null, userId }) {
-    console.log('BROADCASTING', JSON.stringify(arguments));
+    // console.log('BROADCASTING', JSON.stringify(arguments));
     const excludedSocket = await _getUserSocket(userId)
     if (!excludedSocket) {
         // logger.debug('Shouldnt happen, socket not found')
@@ -114,11 +114,11 @@ async function _getAllSockets() {
 
 async function _printSockets() {
     const sockets = await _getAllSockets()
-    console.log(`Sockets: (count: ${sockets.length}):`)
+    // console.log(`Sockets: (count: ${sockets.length}):`)
     sockets.forEach(_printSocket)
 }
 function _printSocket(socket) {
-    console.log(`Socket - socketId: ${socket.id} userId: ${socket.userId}`)
+    // console.log(`Socket - socketId: ${socket.id} userId: ${socket.userId}`)
 }
 
 

@@ -13,7 +13,7 @@ async function getUser(req, res) {
 }
 
 async function getUsers(req, res) {
-    console.log('users')
+    // console.log('users')
     try {
         const filterBy = {
             txt: req.query?.txt || '',

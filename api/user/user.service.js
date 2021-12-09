@@ -74,6 +74,9 @@ async function update(user) {
             searchHistory: user.searchHistory,
             likedSongs: user.likedSongs,
             following: user.following,
+            likedStations:user.likedStations,
+            createdStations:user.createdStations
+
         }
         const collection = await dbService.getCollection('user')
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
@@ -85,7 +88,7 @@ async function update(user) {
 }
 
 async function add(user) {
-    console.log(user, 'user at user.service add')
+    // console.log(user, 'user at user.service add')
     try {
         // peek only updatable fields!
         const userToAdd = {
@@ -96,6 +99,9 @@ async function add(user) {
             searchHistory: user.searchHistory,
             likedSongs: user.likedSongs,
             following: user.following,
+            likedStations:user.likedStations,
+            createdStations:user.createdStations
+
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

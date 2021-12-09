@@ -53,7 +53,9 @@ function connectSockets(http, session) {
         
             // emits only to sockets in the same room
             // gIo.to(socket.myTopic).emit('get share-listen', stationSongIdx)
+
             socket.broadcast.to(socket.myTopic).emit('get share-listen', playerData)
+            // gIo.to(socket.myTopic).emit('get share-listen', playerData)
         })
         socket.on('send announcements', msg => {
             // console.log('Emitting announcements: '+ msg);
@@ -65,6 +67,10 @@ function connectSockets(http, session) {
             // socket.broadcast.to(socket.myTopic).emit('get share-listen', playerData)
         })
 
+        socket.on('send mousemove', coords => {
+            // console.log(coords)
+            socket.broadcast.to(socket.myTopic).emit('get mousemove', coords)
+        })
     })
 }
 

@@ -7,12 +7,12 @@
       "love",
       "happy"
     ],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdBy": {
-      "name": "Eitan",
-      "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/w_100,h_100,c_thumb,g_face/v1601183977/clr5fhfweew2fyaixprr.jpg",
-      "id": "u013"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 560,
     "songs": [
       {
         "id": "GC_mV1IpjWA",
@@ -98,10 +98,10 @@
     ],
     "genre": "Israeli",
     "createdBy": {
-      "name": "Nir",
-      "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/c_thumb,w_200,g_face/v1600700980/h1xxkhwainjt1kzrwebq.jpg",
-      "id": "u14a"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 340,
     "songs": [
       {
         "id": "jP4XtOEs-1s",
@@ -129,12 +129,12 @@
       "love",
       "happy"
     ],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdBy": {
-      "name": "Mark",
-      "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/c_thumb,w_200,g_face/v1600701457/j6w7qrjtrtzu2ufks64z.jpg",
-      "id": "u015"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 220,
     "songs": [
       {
         "id": "7k0CAhyi",
@@ -180,10 +180,10 @@
     ],
     "genre": "Pop",
     "createdBy": {
-      "name": "Mark",
-      "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/w_100,h_100,c_thumb,g_face/v1601183977/clr5fhfweew2fyaixprr.jpg",
-      "id": "u015"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 130,
     "songs": [
       {
         "id": "7k0CAhyi",
@@ -260,10 +260,10 @@
     ],
     "genre": "Rock",
     "createdBy": {
-      "name": "Nir",
-      "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/w_100,h_100,c_thumb,g_face/v1601183977/clr5fhfweew2fyaixprr.jpg",
-      "id": "u014"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 350,
     "songs": [
       {
         "id": "dbB-mICjkQM",
@@ -317,10 +317,10 @@
     ],
     "genre": "Rock",
     "createdBy": {
-      "name": "Eitan",
-      "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/w_100,h_100,c_thumb,g_face/v1601183977/clr5fhfweew2fyaixprr.jpg",
-      "id": "u013"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 600,
     "songs": [
       {
         "id": "f4Mc-NYPHaQ",
@@ -390,10 +390,10 @@
     ],
     "genre": "Electronic",
     "createdBy": {
-      "name": "Eitan",
-      "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/w_100,h_100,c_thumb,g_face/v1601183977/clr5fhfweew2fyaixprr.jpg",
-      "id": "u013"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 30,
     "songs": [
       {
         "id": "NcPg80JqNX8",
@@ -448,10 +448,10 @@
     "genre": "Rock",
     "createdAt": 1638654426809,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1500,
     "songs": [
       {
         "id": "hTWKbfoikeg",
@@ -545,10 +545,10 @@
     "genre": "Rock",
     "createdAt": 1638654481428,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 460,
     "songs": [
       {
         "id": "1w7OgIMMRc4",
@@ -643,10 +643,10 @@
     "genre": "Rock",
     "createdAt": 1638654564513,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 120,
     "songs": [
       {
         "id": "s88r_q7oufE",
@@ -740,10 +740,10 @@
     "genre": "Israeli",
     "createdAt": 1638654716773,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 50,
     "songs": [
       {
         "id": "LWD30iw7Diw",
@@ -838,10 +838,10 @@
     "genre": "Israeli",
     "createdAt": 1638654792117,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 70,
     "songs": [
       {
         "id": "lDsckPcaa6E",
@@ -936,10 +936,10 @@
     "genre": "Israeli",
     "createdAt": 1638654926802,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 25,
     "songs": [
       {
         "id": "Syjb99ed5xg",
@@ -1033,10 +1033,10 @@
     "genre": "Israeli",
     "createdAt": 1638655276765,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1400,
     "songs": [
       {
         "id": "SzGr282fgAM",
@@ -1130,10 +1130,10 @@
     "genre": "Israeli",
     "createdAt": 1638655397950,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1200,
     "songs": [
       {
         "id": "7pQjyVr-Mn8",
@@ -1227,10 +1227,10 @@
     "genre": "Pop",
     "createdAt": 1638655863629,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 70,
     "songs": [
       {
         "id": "0Gl2QnHNpkA",
@@ -1325,10 +1325,10 @@
     "genre": "Pop",
     "createdAt": 1638655959940,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 80,
     "songs": [
       {
         "id": "zpzdgmqIHOQ",
@@ -1411,7 +1411,7 @@
         "createdAt": 1638683508191
       }
     ]
-    },
+  },
   {
     "name": "Pet Shop Boys",
     "description": "Very Nice",
@@ -1423,10 +1423,10 @@
     "genre": "Pop",
     "createdAt": 1638656033651,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1100,
     "songs": [
       {
         "id": "dRHetRTOD1Q",
@@ -1521,10 +1521,10 @@
     "genre": "Pop",
     "createdAt": 1638656137573,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 90,
     "songs": [
       {
         "id": "f0qO04Y9Pwk",
@@ -1619,10 +1619,10 @@
     "genre": "Rock",
     "createdAt": 1638656217710,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1234,
     "songs": [
       {
         "id": "Mfd1izwEd9E",
@@ -1701,10 +1701,10 @@
     "genre": "Pop",
     "createdAt": 1638656292164,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 40,
     "songs": [
       {
         "id": "gJLIiF15wjQ",
@@ -1799,10 +1799,10 @@
     "genre": "Electronic",
     "createdAt": 1638656459697,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1450,
     "songs": [
       {
         "id": "tIXVllhFARg",
@@ -1849,10 +1849,10 @@
     "genre": "Electronic",
     "createdAt": 1638656586404,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 78,
     "songs": [
       {
         "id": "WxhTbxMSvT0",
@@ -1891,10 +1891,10 @@
     "genre": "Electronic",
     "createdAt": 1638656734959,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 80,
     "songs": [
       {
         "id": "P8JEm4d6Wu4",
@@ -1989,10 +1989,10 @@
     "genre": "Electronic",
     "createdAt": 1638656820186,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 40,
     "songs": [
       {
         "id": "MT_qUOTxtuI",
@@ -2083,13 +2083,13 @@
     "tags": [
       "curious"
     ],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdAt": 1638685316965,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 130,
     "songs": [
       {
         "id": "OaM8DALTFOY",
@@ -2173,13 +2173,13 @@
       "chill",
       "happy"
     ],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdAt": 1638685460721,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 234,
     "songs": [
       {
         "id": "NUsoVlDFqZg",
@@ -2271,13 +2271,13 @@
       "chill",
       "cool"
     ],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdAt": 1638685562217,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 230,
     "songs": [
       {
         "id": "CHekNnySAfM",
@@ -2372,10 +2372,10 @@
     "genre": "Electronic",
     "createdAt": 1638696365150,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 120,
     "songs": [
       {
         "id": "wmin5WkOuPw",
@@ -2468,7 +2468,7 @@
         "createdAt": 1638696406551
       }
     ]
-    },
+  },
   {
     "name": "AC/DC",
     "description": "AC/DC",
@@ -2481,10 +2481,10 @@
     "genre": "Rock",
     "createdAt": 1638696504299,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 89,
     "songs": [
       {
         "id": "v2AC41dglnM",
@@ -2590,10 +2590,10 @@
     "genre": "Rock",
     "createdAt": 1638696586820,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1268,
     "songs": [
       {
         "id": "HQmmM_qwG4k",
@@ -2698,10 +2698,10 @@
     "genre": "Rock",
     "createdAt": 1638696653549,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1450,
     "songs": [
       {
         "id": "NCtzkaL2t_Y",
@@ -2803,13 +2803,13 @@
       "fantastic",
       "curious"
     ],
-    "genre": "Rock",
+    "genre": "Prog",
     "createdAt": 1638696726403,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1325,
     "songs": [
       {
         "id": "YR5ApYxkU-U",
@@ -2914,10 +2914,10 @@
     "genre": "Israeli",
     "createdAt": 1638696885630,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1670,
     "songs": [
       {
         "id": "zAaHhoNMXS0",
@@ -3023,10 +3023,10 @@
     "genre": "Israeli",
     "createdAt": 1638696988521,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 99,
     "songs": [
       {
         "id": "6FiqLKCVR8k",
@@ -3131,10 +3131,10 @@
     "genre": "Israeli",
     "createdAt": 1638697070364,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 145,
     "songs": [
       {
         "id": "Tw6ExvpuKT0",
@@ -3239,10 +3239,10 @@
     "genre": "Israeli",
     "createdAt": 1638697130409,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 67,
     "songs": [
       {
         "id": "tr-OXFt3YTA",
@@ -3347,10 +3347,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697243714,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 590,
     "songs": [
       {
         "id": "JFm7YDVlqnI",
@@ -3454,10 +3454,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697295484,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 700,
     "songs": [
       {
         "id": "eXvBjCO19QY",
@@ -3562,10 +3562,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697364737,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1340,
     "songs": [
       {
         "id": "_CL6n0FJZpk",
@@ -3670,10 +3670,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697410456,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 540,
     "songs": [
       {
         "id": "_CL6n0FJZpk",
@@ -3777,10 +3777,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697489516,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 245,
     "songs": [
       {
         "id": "GSoQDaXh144",
@@ -3884,10 +3884,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697549305,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 246,
     "songs": [
       {
         "id": "_JZom_gVfuw",
@@ -3992,10 +3992,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697620160,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 123,
     "songs": [
       {
         "id": "GRKmpn3SBdw",
@@ -4100,10 +4100,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697694091,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 78,
     "songs": [
       {
         "id": "PBwAxmrE194",
@@ -4207,10 +4207,10 @@
     "genre": "Hip Hop",
     "createdAt": 1638697780869,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 345,
     "songs": [
       {
         "id": "PWgvGjAhvIw",
@@ -4314,10 +4314,10 @@
     "genre": "Pop",
     "createdAt": 1638697868429,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 45,
     "songs": [
       {
         "id": "qrO4YZeyl0I",
@@ -4422,10 +4422,10 @@
     "genre": "Pop",
     "createdAt": 1638697992629,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 35,
     "songs": [
       {
         "id": "C-u5WLJ9Yk4",
@@ -4529,10 +4529,10 @@
     "genre": "Pop",
     "createdAt": 1638698049537,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 780,
     "songs": [
       {
         "id": "2Vv-BfVoq4g",
@@ -4636,10 +4636,10 @@
     "genre": "Electronic",
     "createdAt": 1638698137066,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 50,
     "songs": [
       {
         "id": "1XtEFMP3-hA",
@@ -4708,10 +4708,10 @@
     "genre": "Electronic",
     "createdAt": 1638698304576,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 45,
     "songs": [
       {
         "id": "cbB3iGRHtqA",
@@ -4815,10 +4815,10 @@
     "genre": "Electronic",
     "createdAt": 1638698405077,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 36,
     "songs": [
       {
         "id": "TcJDpW_tgIU",
@@ -4865,13 +4865,13 @@
     "tags": [
       "cool"
     ],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdAt": 1638698717942,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 436,
     "songs": [
       {
         "id": "Ef9QnZVpVd8",
@@ -4974,13 +4974,13 @@
       "fantastic",
       "curious"
     ],
-    "genre": "Easy",
+    "genre": "Prog",
     "createdAt": 1638699005867,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 1800,
     "songs": [
       {
         "id": "6Ks9W4VGmbw",
@@ -5028,13 +5028,13 @@
       "chill",
       "happy"
     ],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdAt": 1638699092697,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 345,
     "songs": [
       {
         "id": "uuZE_IRwLNI",
@@ -5133,13 +5133,13 @@
     "description": "Elvis presley",
     "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638699221/unnamed_sewiiv.jpg",
     "tags": [],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdAt": 1638699175544,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 432,
     "songs": [
       {
         "id": "u-pP_dCenJA",
@@ -5241,13 +5241,13 @@
       "cool",
       "chill"
     ],
-    "genre": "Easy",
+    "genre": "Mix",
     "createdAt": 1638699232377,
     "createdBy": {
-      "name": "Patefon",
-      "imgUrl": "https://res.cloudinary.com/nir-cloudinary/image/upload/v1638375320/patefon_olzyeg.png",
-      "id": "111"
+      "userId": "61acb8b5ea757b2b2307d046",
+      "name": "Patefon"
     },
+    "likesCounter": 300,
     "songs": [
       {
         "id": "TvnYmWpD_T8",

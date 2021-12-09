@@ -2,6 +2,7 @@ const asyncLocalStorage = require('./als.service');
 const logger = require('./logger.service');
 
 var gIo = null
+var gSocketCounterToTopics = {};
 
 function connectSockets(http, session) {
     gIo = require('socket.io')(http, {
@@ -22,6 +23,11 @@ function connectSockets(http, session) {
             }
             socket.join(topic)
             socket.myTopic = topic
+
+            // if (gSocketCounterToTopics[topic]) gSocketCounterToTopics[topic]++
+            // else gSocketCounterToTopics[topic] = 1;
+            // gIo.emit('get socketCounterToTopics', gSocketCounterToTopics)
+             socket.broadcast.to(socket.myTopic).emit('get socketCounterToTopics', 'someone entered the station')
         })
         socket.on('chat newMsg', msg => {
             // console.log('Emitting Chat msg', msg);
@@ -53,7 +59,6 @@ function connectSockets(http, session) {
             // console.log('Emitting announcements: '+ msg);
            // emits to all sockets:
             gIo.emit('get announcements', msg)
-
 
             // emits only to sockets in the same room
             // gIo.to(socket.myTopic).emit('get share-listen', stationSongIdx)
@@ -119,6 +124,15 @@ async function _printSockets() {
 }
 function _printSocket(socket) {
     // console.log(`Socket - socketId: ${socket.id} userId: ${socket.userId}`)
+}
+
+async function _getTopicSocket(myTopic) {
+    const sockets = await _getAllSockets();
+    const socket = sockets.reduce((acc,s) => {
+       if(s.myTopic && s.myTopic === myTopic) acc++;
+       return acc;  
+    },0)
+    return socket;
 }
 
 

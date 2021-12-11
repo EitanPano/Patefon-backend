@@ -18,10 +18,10 @@ async function signup(req, res) {
     try {
         console.log('got to controller');
         console.log(req.body);
-        const { username, password, fullname,isAdmin,searchHistory,likedSongs,following } = req.body
+        const { username, password, fullname,isAdmin,searchHistory,likedSongs,following,likedStations,createdStations,email} = req.body
         // Never log passwords
         // logger.debug(fullname + ', ' + username + ', ' + password)
-        const account = await authService.signup(username, password, fullname, isAdmin,searchHistory,likedSongs,following)
+        const account = await authService.signup(username, password, fullname,isAdmin,searchHistory,likedSongs,following,likedStations,createdStations,email)
         logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
         const user = await authService.login(username, password)
         req.session.user = user

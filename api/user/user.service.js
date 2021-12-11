@@ -100,8 +100,8 @@ async function add(user) {
             likedSongs: user.likedSongs,
             following: user.following,
             likedStations:user.likedStations,
-            createdStations:user.createdStations
-
+            createdStations:user.createdStations,
+            email: user.email,
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

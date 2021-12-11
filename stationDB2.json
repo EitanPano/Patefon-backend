@@ -8885,5 +8885,951 @@
             }
         ],
         "likesCounter": 0
+    },
+    {
+        "name" : "Best Of J.Cole",
+        "description" : "No Role Modelz",
+        "imgUrl" : "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639247193/Untitled_design_ga3d9u.png",
+        "tags" : [ 
+            "Original", 
+            "Chill", 
+            "Cool"
+        ],
+        "genre" : "Hip Hop",
+        "createdAt" : 1639247006648.0,
+        "createdBy" : {
+            "userId" : "61b337f7ea757b2b234eefae",
+            "name" : "Mark"
+        },
+        "songs" : [ 
+            {
+                "id" : "LR6ybr-BQYY",
+                "youtubeId" : "LR6ybr-BQYY",
+                "title" : "J. Cole - No Role Modelz (Explicit)",
+                "imgUrl" : "https://i.ytimg.com/vi/LR6ybr-BQYY/default.jpg",
+                "duration" : "04:54",
+                "isLiked" : false,
+                "createdAt" : 1639247023628.0
+            }, 
+            {
+                "id" : "e8CLsYzE5wk",
+                "youtubeId" : "e8CLsYzE5wk",
+                "title" : "J. Cole - MIDDLE CHILD (Official Audio)",
+                "imgUrl" : "https://i.ytimg.com/vi/e8CLsYzE5wk/default.jpg",
+                "duration" : "03:34"
+            }, 
+            {
+                "id" : "gK07p6RGbtg",
+                "youtubeId" : "gK07p6RGbtg",
+                "title" : "J. Cole - a m a r i (Official Audio)",
+                "imgUrl" : "https://i.ytimg.com/vi/gK07p6RGbtg/default.jpg",
+                "duration" : "02:29"
+            }, 
+            {
+                "id" : "NGil5MvA_f4",
+                "youtubeId" : "NGil5MvA_f4",
+                "title" : "J Cole- Wet Dreamz (Explicit)",
+                "imgUrl" : "https://i.ytimg.com/vi/NGil5MvA_f4/default.jpg",
+                "duration" : "04:"
+            }, 
+            {
+                "id" : "wLQ8u3xRZd8",
+                "youtubeId" : "wLQ8u3xRZd8",
+                "title" : "J. Cole - m y . l i f e  feat. 21 Savage, Morray (Official Audio)",
+                "imgUrl" : "https://i.ytimg.com/vi/wLQ8u3xRZd8/default.jpg",
+                "duration" : "03:39"
+            }, 
+            {
+                "id" : "W5hSdGt2M8w",
+                "youtubeId" : "W5hSdGt2M8w",
+                "title" : "J. Cole – Work Out (Official Music Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/W5hSdGt2M8w/default.jpg",
+                "duration" : "04:05"
+            }, 
+            {
+                "id" : "wLQ8u3xRZd8",
+                "youtubeId" : "wLQ8u3xRZd8",
+                "title" : "J. Cole - m y . l i f e  feat. 21 Savage, Morray (Official Audio)",
+                "imgUrl" : "https://i.ytimg.com/vi/wLQ8u3xRZd8/default.jpg",
+                "duration" : "03:39"
+            }, 
+            {
+                "id" : "ZLX-GY0dJgc",
+                "youtubeId" : "ZLX-GY0dJgc",
+                "title" : "J. Cole - p r i d e . i s . t h e . d e v i l  feat. Lil&#39; Baby (Official Audio)",
+                "imgUrl" : "https://i.ytimg.com/vi/ZLX-GY0dJgc/default.jpg",
+                "duration" : "03:39"
+            }
+        ],
+        "likesCounter" : 17764
+    },
+    {
+        "name" : "WORLD OF TRANCE",
+        "description" : "",
+        "imgUrl" : "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639248917/7afb055f-eb60-4b61-b833-39ed118c8617_lovzov.webp",
+        "tags" : [ 
+            "Happy", 
+            "Original", 
+            "Curious", 
+            "Fantastic"
+        ],
+        "genre" : "Electronic",
+        "createdAt" : 1639248678032.0,
+        "createdBy" : {
+            "userId" : "61b337f7ea757b2b234eefae",
+            "name" : "Mark"
+        },
+        "songs" : [ 
+            {
+                "id" : "0Su0nyBVamQ",
+                "youtubeId" : "0Su0nyBVamQ",
+                "title" : "BLiSS - My LSD Song",
+                "imgUrl" : "https://i.ytimg.com/vi/0Su0nyBVamQ/default.jpg",
+                "duration" : "07:33",
+                "isLiked" : false,
+                "createdAt" : 1639248947763.0
+            }, 
+            {
+                "id" : "tyJVQra8Ddw",
+                "youtubeId" : "tyJVQra8Ddw",
+                "title" : "BLiSS - OnnSunTai",
+                "imgUrl" : "https://i.ytimg.com/vi/tyJVQra8Ddw/default.jpg",
+                "duration" : "06:49",
+                "isLiked" : false,
+                "createdAt" : 1639248963716.0
+            }, 
+            {
+                "id" : "lIuEuJvKos4",
+                "youtubeId" : "lIuEuJvKos4",
+                "title" : "Astrix - Deep Jungle Walk",
+                "imgUrl" : "https://i.ytimg.com/vi/lIuEuJvKos4/default.jpg",
+                "duration" : "09:16",
+                "isLiked" : false,
+                "createdAt" : 1639248970110.0
+            }, 
+            {
+                "id" : "5_ehdwsv5BI",
+                "youtubeId" : "5_ehdwsv5BI",
+                "title" : "Astrix - Sahara",
+                "imgUrl" : "https://i.ytimg.com/vi/5_ehdwsv5BI/default.jpg",
+                "duration" : "08:49",
+                "isLiked" : false,
+                "createdAt" : 1639248972181.0
+            }, 
+            {
+                "id" : "PgjmrA0_MOc",
+                "youtubeId" : "PgjmrA0_MOc",
+                "title" : "Astrix - Shamanic Tales",
+                "imgUrl" : "https://i.ytimg.com/vi/PgjmrA0_MOc/default.jpg",
+                "duration" : "13:02",
+                "isLiked" : false,
+                "createdAt" : 1639248981034.0
+            }, 
+            {
+                "id" : "lIuEuJvKos4",
+                "youtubeId" : "lIuEuJvKos4",
+                "title" : "Astrix - Deep Jungle Walk",
+                "imgUrl" : "https://i.ytimg.com/vi/lIuEuJvKos4/default.jpg",
+                "duration" : "09:16",
+                "isLiked" : false,
+                "createdAt" : 1639248981872.0
+            }, 
+            {
+                "id" : "M3v3R_PlrhI",
+                "youtubeId" : "M3v3R_PlrhI",
+                "title" : "Astrix - He.art",
+                "imgUrl" : "https://i.ytimg.com/vi/M3v3R_PlrhI/default.jpg",
+                "duration" : "08:02",
+                "isLiked" : false,
+                "createdAt" : 1639248982754.0
+            }, 
+            {
+                "id" : "LaC6WQ6zX1Q",
+                "youtubeId" : "LaC6WQ6zX1Q",
+                "title" : "Astrix &amp; Ritmo - Agate",
+                "imgUrl" : "https://i.ytimg.com/vi/LaC6WQ6zX1Q/default.jpg",
+                "duration" : "08:44",
+                "isLiked" : false,
+                "createdAt" : 1639248986194.0
+            }, 
+            {
+                "id" : "ILcRkUpp0_c",
+                "youtubeId" : "ILcRkUpp0_c",
+                "title" : "Rising Dust - Starting To Feel",
+                "imgUrl" : "https://i.ytimg.com/vi/ILcRkUpp0_c/default.jpg",
+                "duration" : "06:43",
+                "isLiked" : false,
+                "createdAt" : 1639248995988.0
+            }, 
+            {
+                "id" : "9R_R5J-J_00",
+                "youtubeId" : "9R_R5J-J_00",
+                "title" : "Rising Dust - Blow",
+                "imgUrl" : "https://i.ytimg.com/vi/9R_R5J-J_00/default.jpg",
+                "duration" : "07:50",
+                "isLiked" : false,
+                "createdAt" : 1639249002198.0
+            }
+        ],
+        "likesCounter" : 14332
+    },
+    {
+        "name" : "This Is Arctic Monkeys",
+        "description" : "",
+        "imgUrl" : "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639249161/png-clipart-arctic-monkeys-logo-sheffield-arctic-monkeys-suck-it-and-see-logo-am-rock-band-miscellaneous-text_rlfthz.png",
+        "tags" : [ 
+            "Chill", 
+            "Cool", 
+            "Happy", 
+            "Broadcast"
+        ],
+        "genre" : "Rock",
+        "createdAt" : 1639249117023.0,
+        "createdBy" : {
+            "userId" : "61b337f7ea757b2b234eefae",
+            "name" : "Mark"
+        },
+        "songs" : [ 
+            {
+                "id" : "bpOSxM0rNPM",
+                "youtubeId" : "bpOSxM0rNPM",
+                "title" : "Arctic Monkeys - Do I Wanna Know? (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/bpOSxM0rNPM/default.jpg",
+                "duration" : "04:26",
+                "isLiked" : false,
+                "createdAt" : 1639249195181.0
+            }, 
+            {
+                "id" : "6366dxFf-Os",
+                "youtubeId" : "6366dxFf-Os",
+                "title" : "Arctic Monkeys - Why&#39;d You Only Call Me When You&#39;re High? (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/6366dxFf-Os/default.jpg",
+                "duration" : "04:49",
+                "isLiked" : false,
+                "createdAt" : 1639249198367.0
+            }, 
+            {
+                "id" : "VQH8ZTgna3Q",
+                "youtubeId" : "VQH8ZTgna3Q",
+                "title" : "Arctic Monkeys - R U Mine? (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/VQH8ZTgna3Q/default.jpg",
+                "duration" : "03:44",
+                "isLiked" : false,
+                "createdAt" : 1639249200232.0
+            }, 
+            {
+                "id" : "1tWFk8ojF4M",
+                "youtubeId" : "1tWFk8ojF4M",
+                "title" : "Arctic Monkeys - Do I Wanna Know?  (Live)",
+                "imgUrl" : "https://i.ytimg.com/vi/1tWFk8ojF4M/default.jpg",
+                "duration" : "04:24",
+                "isLiked" : false,
+                "createdAt" : 1639249201155.0
+            }, 
+            {
+                "id" : "nyuo9-OjNNg",
+                "youtubeId" : "nyuo9-OjNNg",
+                "title" : "I Wanna Be Yours",
+                "imgUrl" : "https://i.ytimg.com/vi/nyuo9-OjNNg/default.jpg",
+                "duration" : "03:04",
+                "isLiked" : false,
+                "createdAt" : 1639249202441.0
+            }
+        ],
+        "likesCounter" : 14422
+    },
+    {
+        "name" : "Best Rock Bands",
+        "description" : "The Hall Of Fame",
+        "imgUrl" : "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639249638/Untitled_design_s462zw.png",
+        "tags" : [ 
+            "Chill", 
+            "Happy", 
+            "Original", 
+            "Fantastic"
+        ],
+        "genre" : "Rock",
+        "createdAt" : 1639249537523.0,
+        "createdBy" : {
+            "userId" : "61b337f7ea757b2b234eefae",
+            "name" : "Mark"
+        },
+        "songs" : [ 
+            {
+                "id" : "NHHLISaLe44",
+                "youtubeId" : "NHHLISaLe44",
+                "title" : "The Suburbs - Arcade Fire",
+                "imgUrl" : "https://i.ytimg.com/vi/NHHLISaLe44/default.jpg",
+                "duration" : "05:12",
+                "isLiked" : false,
+                "createdAt" : 1639249792135.0
+            }, 
+            {
+                "id" : "0G383538qzQ",
+                "youtubeId" : "0G383538qzQ",
+                "title" : "Black Pumas - Colors (Official Live Session)",
+                "imgUrl" : "https://i.ytimg.com/vi/0G383538qzQ/default.jpg",
+                "duration" : "06:47",
+                "isLiked" : false,
+                "createdAt" : 1639249803123.0
+            }, 
+            {
+                "id" : "an3AkQL62F8",
+                "youtubeId" : "an3AkQL62F8",
+                "title" : "Black Pumas - Oct 33 (Official Live Session With String Quartet)",
+                "imgUrl" : "https://i.ytimg.com/vi/an3AkQL62F8/default.jpg",
+                "duration" : "05:50",
+                "isLiked" : false,
+                "createdAt" : 1639249807699.0
+            }, 
+            {
+                "id" : "hTWKbfoikeg",
+                "youtubeId" : "hTWKbfoikeg",
+                "title" : "Nirvana - Smells Like Teen Spirit (Official Music Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/hTWKbfoikeg/default.jpg",
+                "duration" : "04:39",
+                "isLiked" : false,
+                "createdAt" : 1639249813830.0
+            }, 
+            {
+                "id" : "vabnZ9-ex7o",
+                "youtubeId" : "vabnZ9-ex7o",
+                "title" : "Nirvana - Come As You Are (Official Music Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/vabnZ9-ex7o/default.jpg",
+                "duration" : "03:45",
+                "isLiked" : false,
+                "createdAt" : 1639249815686.0
+            }, 
+            {
+                "id" : "pkcJEvMcnEg",
+                "youtubeId" : "pkcJEvMcnEg",
+                "title" : "Nirvana - Lithium (Official Music Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/pkcJEvMcnEg/default.jpg",
+                "duration" : "04:16",
+                "isLiked" : false,
+                "createdAt" : 1639249817496.0
+            }, 
+            {
+                "id" : "YlUKcNNmywk",
+                "youtubeId" : "YlUKcNNmywk",
+                "title" : "Red Hot Chili Peppers - Californication [Official Music Video]",
+                "imgUrl" : "https://i.ytimg.com/vi/YlUKcNNmywk/default.jpg",
+                "duration" : "05:22",
+                "isLiked" : false,
+                "createdAt" : 1639249828200.0
+            }, 
+            {
+                "id" : "rn_YodiJO6k",
+                "youtubeId" : "rn_YodiJO6k",
+                "title" : "Red Hot Chili Peppers - Otherside [Official Music Video]",
+                "imgUrl" : "https://i.ytimg.com/vi/rn_YodiJO6k/default.jpg",
+                "duration" : "04:16",
+                "isLiked" : false,
+                "createdAt" : 1639249832906.0
+            }, 
+            {
+                "id" : "-EzURpTF5c8",
+                "youtubeId" : "-EzURpTF5c8",
+                "title" : "Pink Floyd - Time",
+                "imgUrl" : "https://i.ytimg.com/vi/-EzURpTF5c8/default.jpg",
+                "duration" : "07:01",
+                "isLiked" : false,
+                "createdAt" : 1639249844078.0
+            }, 
+            {
+                "id" : "F_VjVqe3KJ0",
+                "youtubeId" : "F_VjVqe3KJ0",
+                "title" : "Pink Floyd - Time - Live at Earls Court, London",
+                "imgUrl" : "https://i.ytimg.com/vi/F_VjVqe3KJ0/default.jpg",
+                "duration" : "06:42",
+                "isLiked" : false,
+                "createdAt" : 1639249846046.0
+            }, 
+            {
+                "id" : "LNBRBTDBUxQ",
+                "youtubeId" : "LNBRBTDBUxQ",
+                "title" : "Pink Floyd  &quot;Time&quot;  (Original Legendado)",
+                "imgUrl" : "https://i.ytimg.com/vi/LNBRBTDBUxQ/default.jpg",
+                "duration" : "07:24",
+                "isLiked" : false,
+                "createdAt" : 1639249848639.0
+            }
+        ],
+        "likesCounter" : 21558
+    },
+    {
+        "name" : "Rap Caviar",
+        "description" : "Best Rap Hit's",
+        "imgUrl" : "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639250568/Rap_caviar_cuqs4r.png",
+        "tags" : [ 
+            "Cool", 
+            "Chill", 
+            "Happy", 
+            "Fantastic"
+        ],
+        "genre" : "Hip Hop",
+        "createdAt" : 1639250532402.0,
+        "createdBy" : {
+            "userId" : "61b337f7ea757b2b234eefad",
+            "name" : "Patefon"
+        },
+        "songs" : [ 
+            {
+                "id" : "HmAsUQEFYGI",
+                "youtubeId" : "HmAsUQEFYGI",
+                "title" : "EARFQUAKE",
+                "imgUrl" : "https://i.ytimg.com/vi/HmAsUQEFYGI/default.jpg",
+                "duration" : "04:27",
+                "isLiked" : false,
+                "createdAt" : 1639250588735.0
+            }, 
+            {
+                "id" : "N1w-hDiJ4dM",
+                "youtubeId" : "N1w-hDiJ4dM",
+                "title" : "Tyler, The Creator: NPR Music Tiny Desk Concert",
+                "imgUrl" : "https://i.ytimg.com/vi/N1w-hDiJ4dM/default.jpg",
+                "duration" : "24:44",
+                "isLiked" : false,
+                "createdAt" : 1639250590132.0
+            }, 
+            {
+                "id" : "icoOOiSlKK0",
+                "youtubeId" : "icoOOiSlKK0",
+                "title" : "Tyler, The Creator - JUGGERNAUT (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/icoOOiSlKK0/default.jpg",
+                "duration" : "01:36",
+                "isLiked" : false,
+                "createdAt" : 1639250590839.0
+            }, 
+            {
+                "id" : "TGgcC5xg9YI",
+                "youtubeId" : "TGgcC5xg9YI",
+                "title" : "SEE YOU AGAIN featuring Kali Uchis",
+                "imgUrl" : "https://i.ytimg.com/vi/TGgcC5xg9YI/default.jpg",
+                "duration" : "03:23",
+                "isLiked" : false,
+                "createdAt" : 1639250591328.0
+            }, 
+            {
+                "id" : "XSbZidsgMfw",
+                "youtubeId" : "XSbZidsgMfw",
+                "title" : "Tyler The Creator - Yonkers",
+                "imgUrl" : "https://i.ytimg.com/vi/XSbZidsgMfw/default.jpg",
+                "duration" : "03:06",
+                "isLiked" : false,
+                "createdAt" : 1639250592499.0
+            }, 
+            {
+                "id" : "FUXX55WqYZs",
+                "youtubeId" : "FUXX55WqYZs",
+                "title" : "Tyler, The Creator - Who Dat Boy",
+                "imgUrl" : "https://i.ytimg.com/vi/FUXX55WqYZs/default.jpg",
+                "duration" : "03:47",
+                "isLiked" : false,
+                "createdAt" : 1639250592981.0
+            }, 
+            {
+                "id" : "THVbtGqEO1o",
+                "youtubeId" : "THVbtGqEO1o",
+                "title" : "Drake - Fair Trade (Audio) ft. Travis Scott",
+                "imgUrl" : "https://i.ytimg.com/vi/THVbtGqEO1o/default.jpg",
+                "duration" : "04:52",
+                "isLiked" : false,
+                "createdAt" : 1639250596574.0
+            }, 
+            {
+                "id" : "JFm7YDVlqnI",
+                "youtubeId" : "JFm7YDVlqnI",
+                "title" : "Drake - Laugh Now Cry Later (Official Music Video) ft. Lil Durk",
+                "imgUrl" : "https://i.ytimg.com/vi/JFm7YDVlqnI/default.jpg",
+                "duration" : "05:02",
+                "isLiked" : false,
+                "createdAt" : 1639250597151.0
+            }, 
+            {
+                "id" : "vX9msKu75qs",
+                "youtubeId" : "vX9msKu75qs",
+                "title" : "Drake ft. Future and Young Thug - Way 2 Sexy (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/vX9msKu75qs/default.jpg",
+                "duration" : "04:41",
+                "isLiked" : false,
+                "createdAt" : 1639250597672.0
+            }, 
+            {
+                "id" : "xpVfcZ0ZcFM",
+                "youtubeId" : "xpVfcZ0ZcFM",
+                "title" : "Drake - God&#39;s Plan",
+                "imgUrl" : "https://i.ytimg.com/vi/xpVfcZ0ZcFM/default.jpg",
+                "duration" : "05:57",
+                "isLiked" : false,
+                "createdAt" : 1639250598200.0
+            }, 
+            {
+                "id" : "XqpQpt_cmhE",
+                "youtubeId" : "XqpQpt_cmhE",
+                "title" : "Drake - Knife Talk (Official Video) ft. 21 Savage, Project Pat",
+                "imgUrl" : "https://i.ytimg.com/vi/XqpQpt_cmhE/default.jpg",
+                "duration" : "04:05",
+                "isLiked" : false,
+                "createdAt" : 1639250598939.0
+            }, 
+            {
+                "id" : "Nx8wrBfOa1k",
+                "youtubeId" : "Nx8wrBfOa1k",
+                "title" : "Kendrik Lamar - DUCKWORTH (Official Audio) | @432hz",
+                "imgUrl" : "https://i.ytimg.com/vi/Nx8wrBfOa1k/default.jpg",
+                "duration" : "04:09",
+                "isLiked" : false,
+                "createdAt" : 1639250609044.0
+            }, 
+            {
+                "id" : "elQ35wVPO4g",
+                "youtubeId" : "elQ35wVPO4g",
+                "title" : "Kendrik Lamar - HUMBLE (Lyrics)",
+                "imgUrl" : "https://i.ytimg.com/vi/elQ35wVPO4g/default.jpg",
+                "duration" : "02:58",
+                "isLiked" : false,
+                "createdAt" : 1639250609724.0
+            }, 
+            {
+                "id" : "tvTRZJ-4EyI",
+                "youtubeId" : "tvTRZJ-4EyI",
+                "title" : "Kendrick Lamar - HUMBLE.",
+                "imgUrl" : "https://i.ytimg.com/vi/tvTRZJ-4EyI/default.jpg",
+                "duration" : "03:04",
+                "isLiked" : false,
+                "createdAt" : 1639250610160.0
+            }, 
+            {
+                "id" : "h9gqoaStjKQ",
+                "youtubeId" : "h9gqoaStjKQ",
+                "title" : "Esto ha llegado demasiado lejos. El caso de devon erickson y kendrik castillo",
+                "imgUrl" : "https://i.ytimg.com/vi/h9gqoaStjKQ/default.jpg",
+                "duration" : "03:03",
+                "isLiked" : false,
+                "createdAt" : 1639250610699.0
+            }, 
+            {
+                "id" : "10yrPDf92hY",
+                "youtubeId" : "10yrPDf92hY",
+                "title" : "Kendrick Lamar - M.A.A.D. City (Feat. MC eiht)",
+                "imgUrl" : "https://i.ytimg.com/vi/10yrPDf92hY/default.jpg",
+                "duration" : "05:51",
+                "isLiked" : false,
+                "createdAt" : 1639250611070.0
+            }, 
+            {
+                "id" : "v6HBZC9pZHQ",
+                "youtubeId" : "v6HBZC9pZHQ",
+                "title" : "Baby Keem, Kendrick Lamar - family ties (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/v6HBZC9pZHQ/default.jpg",
+                "duration" : "04:20",
+                "isLiked" : false,
+                "createdAt" : 1639250611537.0
+            }
+        ],
+        "likesCounter" : 32169
+    },
+    {
+        "name" : "Kickass Metal",
+        "description" : "HIT THE FLOOR!",
+        "imgUrl" : "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639251051/Rap_caviar_z18iw6.png",
+        "tags" : [ 
+            "Cool", 
+            "Sad", 
+            "Original"
+        ],
+        "genre" : "Rock",
+        "createdAt" : 1639251040787.0,
+        "createdBy" : {
+            "userId" : "61b337f7ea757b2b234eefb0",
+            "name" : "Eitan"
+        },
+        "songs" : [ 
+            {
+                "id" : "A7ry4cx6HfY",
+                "youtubeId" : "A7ry4cx6HfY",
+                "title" : "Avenged Sevenfold - So Far Away [Official Music Video]",
+                "imgUrl" : "https://i.ytimg.com/vi/A7ry4cx6HfY/default.jpg",
+                "duration" : "05:29",
+                "isLiked" : false,
+                "createdAt" : 1639251111981.0
+            }, 
+            {
+                "id" : "KVjBCT2Lc94",
+                "youtubeId" : "KVjBCT2Lc94",
+                "title" : "Avenged Sevenfold - A Little Piece Of Heaven [Official Music Video]",
+                "imgUrl" : "https://i.ytimg.com/vi/KVjBCT2Lc94/default.jpg",
+                "duration" : "08:12",
+                "isLiked" : false,
+                "createdAt" : 1639251113645.0
+            }, 
+            {
+                "id" : "94bGzWyHbu0",
+                "youtubeId" : "94bGzWyHbu0",
+                "title" : "Avenged Sevenfold - Nightmare [Official Music Video]",
+                "imgUrl" : "https://i.ytimg.com/vi/94bGzWyHbu0/default.jpg",
+                "duration" : "06:16",
+                "isLiked" : false,
+                "createdAt" : 1639251114683.0
+            }, 
+            {
+                "id" : "EaMhX3th_Sc",
+                "youtubeId" : "EaMhX3th_Sc",
+                "title" : "Avenged Sevenfold - Dear God [Official Music Video]",
+                "imgUrl" : "https://i.ytimg.com/vi/EaMhX3th_Sc/default.jpg",
+                "duration" : "04:43",
+                "isLiked" : false,
+                "createdAt" : 1639251115331.0
+            }, 
+            {
+                "id" : "DKuySrTxIBs",
+                "youtubeId" : "DKuySrTxIBs",
+                "title" : "Avenged Sevenfold -  So Far Away (Official Music Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/DKuySrTxIBs/default.jpg",
+                "duration" : "05:29",
+                "isLiked" : false,
+                "createdAt" : 1639251116093.0
+            }, 
+            {
+                "id" : "bVA5_lrGebc",
+                "youtubeId" : "bVA5_lrGebc",
+                "title" : "AvengedSevenfold  - The Best Song The Rev Full Album",
+                "imgUrl" : "https://i.ytimg.com/vi/bVA5_lrGebc/default.jpg",
+                "duration" : "55:42",
+                "isLiked" : false,
+                "createdAt" : 1639251116869.0
+            }, 
+            {
+                "id" : "9sTQ0QdkN3Q",
+                "youtubeId" : "9sTQ0QdkN3Q",
+                "title" : "Bullet For My Valentine - Tears Don&#39;t Fall (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/9sTQ0QdkN3Q/default.jpg",
+                "duration" : "04:38",
+                "isLiked" : false,
+                "createdAt" : 1639251127392.0
+            }, 
+            {
+                "id" : "q2I0ulTZWXA",
+                "youtubeId" : "q2I0ulTZWXA",
+                "title" : "Bullet For My Valentine - Waking The Demon (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/q2I0ulTZWXA/default.jpg",
+                "duration" : "04:15",
+                "isLiked" : false,
+                "createdAt" : 1639251128189.0
+            }, 
+            {
+                "id" : "IHgFJEJgUrg",
+                "youtubeId" : "IHgFJEJgUrg",
+                "title" : "Bullet For My Valentine - Your Betrayal (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/IHgFJEJgUrg/default.jpg",
+                "duration" : "04:53",
+                "isLiked" : false,
+                "createdAt" : 1639251130985.0
+            }, 
+            {
+                "id" : "UAgc24Ae4HM",
+                "youtubeId" : "UAgc24Ae4HM",
+                "title" : "Skillet - Refuge (Official Lyric Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/UAgc24Ae4HM/default.jpg",
+                "duration" : "03:29",
+                "isLiked" : false,
+                "createdAt" : 1639251136365.0
+            }, 
+            {
+                "id" : "uGcsIdGOuZY",
+                "youtubeId" : "uGcsIdGOuZY",
+                "title" : "Skillet - Hero (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/uGcsIdGOuZY/default.jpg",
+                "duration" : "03:17",
+                "isLiked" : false,
+                "createdAt" : 1639251137201.0
+            }, 
+            {
+                "id" : "1mjlM_RnsVE",
+                "youtubeId" : "1mjlM_RnsVE",
+                "title" : "Skillet - Monster (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/1mjlM_RnsVE/default.jpg",
+                "duration" : "03:07",
+                "isLiked" : false,
+                "createdAt" : 1639251137959.0
+            }, 
+            {
+                "id" : "2aJUnltwsqs",
+                "youtubeId" : "2aJUnltwsqs",
+                "title" : "Skillet - Awake and Alive (Official Audio)",
+                "imgUrl" : "https://i.ytimg.com/vi/2aJUnltwsqs/default.jpg",
+                "duration" : "03:42",
+                "isLiked" : false,
+                "createdAt" : 1639251139831.0
+            }, 
+            {
+                "id" : "_LypjOTTH6E",
+                "youtubeId" : "_LypjOTTH6E",
+                "title" : "Disturbed - The Light [Official Music Video]",
+                "imgUrl" : "https://i.ytimg.com/vi/_LypjOTTH6E/default.jpg",
+                "duration" : "04:22",
+                "isLiked" : false,
+                "createdAt" : 1639251147657.0
+            }, 
+            {
+                "id" : "5abamRO41fE",
+                "youtubeId" : "5abamRO41fE",
+                "title" : "Slipknot - Psychosocial [OFFICIAL VIDEO]",
+                "imgUrl" : "https://i.ytimg.com/vi/5abamRO41fE/default.jpg",
+                "duration" : "05:03",
+                "isLiked" : false,
+                "createdAt" : 1639251160185.0
+            }, 
+            {
+                "id" : "6fVE8kSM43I",
+                "youtubeId" : "6fVE8kSM43I",
+                "title" : "Slipknot - Duality [OFFICIAL VIDEO]",
+                "imgUrl" : "https://i.ytimg.com/vi/6fVE8kSM43I/default.jpg",
+                "duration" : "03:34",
+                "isLiked" : false,
+                "createdAt" : 1639251160851.0
+            }
+        ],
+        "likesCounter" : 18231
+    },
+    {
+        "name" : "Workout Motivation",
+        "description" : "Hype Yourself UP",
+        "imgUrl" : "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639251444/Rap_caviar_xofi3i.png",
+        "tags" : [ 
+            "Cool", 
+            "Chill", 
+            "Happy", 
+            "Broadcast", 
+            "Original"
+        ],
+        "genre" : "Mix",
+        "createdAt" : 1639251434637.0,
+        "createdBy" : {
+            "userId" : "61b337f7ea757b2b234eefb0",
+            "name" : "Eitan"
+        },
+        "songs" : [ 
+            {
+                "id" : "ytQ5CYE1VZw",
+                "youtubeId" : "ytQ5CYE1VZw",
+                "title" : "Eminem - Till I Collapse [HD]",
+                "imgUrl" : "https://i.ytimg.com/vi/ytQ5CYE1VZw/default.jpg",
+                "duration" : "04:59",
+                "isLiked" : false,
+                "createdAt" : 1639251492671.0
+            }, 
+            {
+                "id" : "Hm7vnOC4hoY",
+                "youtubeId" : "Hm7vnOC4hoY",
+                "title" : "Last Resort (explicit) - Papa Roach",
+                "imgUrl" : "https://i.ytimg.com/vi/Hm7vnOC4hoY/default.jpg",
+                "duration" : "03:36",
+                "isLiked" : false,
+                "createdAt" : 1639251516573.0
+            }, 
+            {
+                "id" : "9sTQ0QdkN3Q",
+                "youtubeId" : "9sTQ0QdkN3Q",
+                "title" : "Bullet For My Valentine - Tears Don&#39;t Fall (Official Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/9sTQ0QdkN3Q/default.jpg",
+                "duration" : "04:38",
+                "isLiked" : false,
+                "createdAt" : 1639251526029.0
+            }, 
+            {
+                "id" : "kXYiU_JCYtU",
+                "youtubeId" : "kXYiU_JCYtU",
+                "title" : "Numb [Official Music Video] - Linkin Park",
+                "imgUrl" : "https://i.ytimg.com/vi/kXYiU_JCYtU/default.jpg",
+                "duration" : "03:07",
+                "isLiked" : false,
+                "createdAt" : 1639251537027.0
+            }, 
+            {
+                "id" : "eVTXPUF4Oz4",
+                "youtubeId" : "eVTXPUF4Oz4",
+                "title" : "In The End [Official HD Music Video] - Linkin Park",
+                "imgUrl" : "https://i.ytimg.com/vi/eVTXPUF4Oz4/default.jpg",
+                "duration" : "03:39",
+                "isLiked" : false,
+                "createdAt" : 1639251538135.0
+            }
+        ],
+        "likesCounter" : 11244
+    },
+    {
+        "name" : "Israeli Mix",
+        "description" : "להיטים ישראליים",
+        "imgUrl" : "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639252297/Rap_caviar_b2zl2e.png",
+        "tags" : [ 
+            "Cool", 
+            "Chill", 
+            "Happy", 
+            "Fantastic"
+        ],
+        "genre" : "Mix",
+        "createdAt" : 1639252288256.0,
+        "createdBy" : {
+            "userId" : "61b337f7ea757b2b234eefaf",
+            "name" : "Nir"
+        },
+        "songs" : [ 
+            {
+                "id" : "JK2wtKG_DT4",
+                "youtubeId" : "JK2wtKG_DT4",
+                "title" : "רביד פלוטניק - גברת טיקטוק",
+                "imgUrl" : "https://i.ytimg.com/vi/JK2wtKG_DT4/default.jpg",
+                "duration" : "04:39",
+                "isLiked" : false,
+                "createdAt" : 1639252330833.0
+            }, 
+            {
+                "id" : "4sSYkwkDGnk",
+                "youtubeId" : "4sSYkwkDGnk",
+                "title" : "רביד פלוטניק - שלווה בארמונותייך",
+                "imgUrl" : "https://i.ytimg.com/vi/4sSYkwkDGnk/default.jpg",
+                "duration" : "04:36",
+                "isLiked" : false,
+                "createdAt" : 1639252332581.0
+            }, 
+            {
+                "id" : "Ey_K97x15ek",
+                "youtubeId" : "Ey_K97x15ek",
+                "title" : "רביד פלוטניק - כל הזמן הזה / Ravid Plotnik - all this time",
+                "imgUrl" : "https://i.ytimg.com/vi/Ey_K97x15ek/default.jpg",
+                "duration" : "05:05",
+                "isLiked" : false,
+                "createdAt" : 1639252333473.0
+            }, 
+            {
+                "id" : "Jg7YL6N5bOs",
+                "youtubeId" : "Jg7YL6N5bOs",
+                "title" : "רביד פלוטניק  - יום חדש / Ravid Plotnik - New Day",
+                "imgUrl" : "https://i.ytimg.com/vi/Jg7YL6N5bOs/default.jpg",
+                "duration" : "03:29",
+                "isLiked" : false,
+                "createdAt" : 1639252334115.0
+            }, 
+            {
+                "id" : "y1AE9Xz9oNI",
+                "youtubeId" : "y1AE9Xz9oNI",
+                "title" : "רביד פלוטניק - ערב טוב טרוריסטים",
+                "imgUrl" : "https://i.ytimg.com/vi/y1AE9Xz9oNI/default.jpg",
+                "duration" : "04:19",
+                "isLiked" : false,
+                "createdAt" : 1639252334589.0
+            }, 
+            {
+                "id" : "7pQjyVr-Mn8",
+                "youtubeId" : "7pQjyVr-Mn8",
+                "title" : "(Prod. By Guy Dan) אייל גולן - תמיד נשארת",
+                "imgUrl" : "https://i.ytimg.com/vi/7pQjyVr-Mn8/default.jpg",
+                "duration" : "03:34",
+                "isLiked" : false,
+                "createdAt" : 1639252339991.0
+            }, 
+            {
+                "id" : "zK4_XI16j7k",
+                "youtubeId" : "zK4_XI16j7k",
+                "title" : "אייל גולן - וי כחול (Prod. By Matan Dror)",
+                "imgUrl" : "https://i.ytimg.com/vi/zK4_XI16j7k/default.jpg",
+                "duration" : "03:20",
+                "isLiked" : false,
+                "createdAt" : 1639252340721.0
+            }, 
+            {
+                "id" : "hWvi-4ZpuBo",
+                "youtubeId" : "hWvi-4ZpuBo",
+                "title" : "אייל גולן - מיטב הלהיטים ברצף",
+                "imgUrl" : "https://i.ytimg.com/vi/hWvi-4ZpuBo/default.jpg",
+                "duration" : "58:51",
+                "isLiked" : false,
+                "createdAt" : 1639252341815.0
+            }, 
+            {
+                "id" : "g4t2GDIoquE",
+                "youtubeId" : "g4t2GDIoquE",
+                "title" : "אייל גולן כשאת איתו Eyal Golan",
+                "imgUrl" : "https://i.ytimg.com/vi/g4t2GDIoquE/default.jpg",
+                "duration" : "04:36",
+                "isLiked" : false,
+                "createdAt" : 1639252343391.0
+            }, 
+            {
+                "id" : "9SNT1Oz_lbc",
+                "youtubeId" : "9SNT1Oz_lbc",
+                "title" : "NETTA barzilai - Rude boy נטע ברזילי",
+                "imgUrl" : "https://i.ytimg.com/vi/9SNT1Oz_lbc/default.jpg",
+                "duration" : "02:30",
+                "isLiked" : false,
+                "createdAt" : 1639252353697.0
+            }, 
+            {
+                "id" : "fj8M6SWaczc",
+                "youtubeId" : "fj8M6SWaczc",
+                "title" : "אגם בוחבוט - באתי להציל אותך מארחת את שחר סאול (Prod. by Moshe &amp; Ofek)",
+                "imgUrl" : "https://i.ytimg.com/vi/fj8M6SWaczc/default.jpg",
+                "duration" : "03:14",
+                "isLiked" : false,
+                "createdAt" : 1639252365141.0
+            }, 
+            {
+                "id" : "zt9mbdrotz0",
+                "youtubeId" : "zt9mbdrotz0",
+                "title" : "אגם בוחבוט - כל העולם",
+                "imgUrl" : "https://i.ytimg.com/vi/zt9mbdrotz0/default.jpg",
+                "duration" : "03:20",
+                "isLiked" : false,
+                "createdAt" : 1639252366027.0
+            }, 
+            {
+                "id" : "K3xBz-5ghIo",
+                "youtubeId" : "K3xBz-5ghIo",
+                "title" : "אגם בוחבוט - יהלום (Prod. By Triangle)",
+                "imgUrl" : "https://i.ytimg.com/vi/K3xBz-5ghIo/default.jpg",
+                "duration" : "02:56",
+                "isLiked" : false,
+                "createdAt" : 1639252367447.0
+            }, 
+            {
+                "id" : "mZo94QhrX7k",
+                "youtubeId" : "mZo94QhrX7k",
+                "title" : "Noa Kirel - Bad Little Thing (Official Music Video)",
+                "imgUrl" : "https://i.ytimg.com/vi/mZo94QhrX7k/default.jpg",
+                "duration" : "02:25",
+                "isLiked" : false,
+                "createdAt" : 1639252387474.0
+            }, 
+            {
+                "id" : "_pGjSmrxZ7s",
+                "youtubeId" : "_pGjSmrxZ7s",
+                "title" : "נועה קירל - קילר",
+                "imgUrl" : "https://i.ytimg.com/vi/_pGjSmrxZ7s/default.jpg",
+                "duration" : "03:06",
+                "isLiked" : false,
+                "createdAt" : 1639252388517.0
+            }, 
+            {
+                "id" : "QB8NuvDML2I",
+                "youtubeId" : "QB8NuvDML2I",
+                "title" : "נועה קירל ואילן פלד - טרילילי טרללה | Noa Kirel &amp; Ilan Peled - Trilili Tralala (Prod by K-Kov)",
+                "imgUrl" : "https://i.ytimg.com/vi/QB8NuvDML2I/default.jpg",
+                "duration" : "03:26",
+                "isLiked" : false,
+                "createdAt" : 1639252389634.0
+            }, 
+            {
+                "id" : "5TUN30--lUw",
+                "youtubeId" : "5TUN30--lUw",
+                "title" : "נועה קירל - פאוץ&#39; - Pouch (Prod. By Jordi) | Noa Kirel",
+                "imgUrl" : "https://i.ytimg.com/vi/5TUN30--lUw/default.jpg",
+                "duration" : "02:54",
+                "isLiked" : false,
+                "createdAt" : 1639252393185.0
+            }
+        ],
+        "likesCounter" : 21256
     }
 ]

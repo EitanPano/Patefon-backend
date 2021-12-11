@@ -1,6 +1,6 @@
 [
     {
-        "_id": "61b1e964ea757b2b230ab29a",
+        
         "name": "Disney Songs",
         "description": "All time favorite songs from Disney's Movies!",
         "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/v1600813979/lybllxgacr5kiu5qsxwe.jpg",
@@ -10,8 +10,8 @@
         ],
         "genre": "Mix",
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 560,
         "songs": [
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab29b",
+        
         "name": "Rap Israeli",
         "description": "ראפ ישראלי בועט, גם מחתרתי ומסחרי",
         "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/v1600845807/zmq5ltfawme2h4czvonw.jpg",
@@ -100,8 +100,8 @@
         ],
         "genre": "Israeli",
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 340,
         "songs": [
@@ -124,7 +124,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab29c",
+        
         "name": "Singer/Songwriter",
         "description": "The best Singer/Songwriter compilation.\nEnchanting vocal and a guitar.",
         "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/v1600814004/ikjsopbdamtaqbqydccs.png",
@@ -174,7 +174,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab29d",
+        
         "name": "Best of Coldplay",
         "description": "Probably the most popular band in the world!",
         "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/v1600813315/q0jxukjnvzfnspcltont.webp",
@@ -255,7 +255,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab29e",
+        
         "name": "Rock with Muse",
         "description": "It is the best progressive rock band nowadays... ",
         "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/v1600815277/uwngqfoqlijwp0fss8xe.jpg",
@@ -265,8 +265,8 @@
         ],
         "genre": "Rock",
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 350,
         "songs": [
@@ -313,7 +313,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab29f",
+        
         "name": "Queen",
         "description": "Fun fun fun! Playlist of Queen!",
         "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/v1600815410/x5vckj6lovsxgmab6uhm.jpg",
@@ -323,8 +323,8 @@
         ],
         "genre": "Rock",
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 600,
         "songs": [
@@ -387,7 +387,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a0",
+        
         "name": "Melodic Trance",
         "description": "Trance that will send shivers down your spine!",
         "imgUrl": "https://res.cloudinary.com/daqs7x8my/image/upload/v1600816521/anl1pxsisnjrqkgicqii.png",
@@ -445,7 +445,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a1",
+        
         "name": "Nirvana",
         "description": "Great Rock Band",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638654441/download_x9dnh0.jpg",
@@ -456,8 +456,8 @@
         "genre": "Rock",
         "createdAt": 1638654426809,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 1500,
         "songs": [
@@ -544,7 +544,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a2",
+        
         "name": "Guns & Roses",
         "description": "Rock n Roll",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638654507/download_bmgx61.jpg",
@@ -642,7 +642,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a3",
+        
         "name": "Queens Of The Stone Age",
         "description": "Light Rock Band",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638654594/download_p0q2ca.jpg",
@@ -653,8 +653,8 @@
         "genre": "Rock",
         "createdAt": 1638654564513,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
         },
         "likesCounter": 120,
         "songs": [
@@ -741,7 +741,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a4",
+        
         "name": "משינה",
         "description": "אחלה להקה",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638654759/download_ah5gzr.jpg",
@@ -751,19 +751,11 @@
         "genre": "Israeli",
         "createdAt": 1638654716773,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 50,
         "songs": [
-            {
-                "id": "LWD30iw7Diw",
-                "youtubeId": "LWD30iw7Diw",
-                "title": "משינה - היא התווכחה איתו שעות 1986",
-                "imgUrl": "https://i.ytimg.com/vi/LWD30iw7Diw/default.jpg",
-                "duration": "04:53",
-                "createdAt": 1638683508191
-            },
             {
                 "id": "PVAD3KWgQrQ",
                 "youtubeId": "PVAD3KWgQrQ",
@@ -786,6 +778,14 @@
                 "title": "משינה - רכבת לילה 1985",
                 "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/default.jpg",
                 "duration": "03:42",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "LWD30iw7Diw",
+                "youtubeId": "LWD30iw7Diw",
+                "title": "משינה - היא התווכחה איתו שעות 1986",
+                "imgUrl": "https://i.ytimg.com/vi/LWD30iw7Diw/default.jpg",
+                "duration": "04:53",
                 "createdAt": 1638683508191
             },
             {
@@ -839,7 +839,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a5",
+        
         "name": "אביתר בנאי",
         "description": "זמר טוב",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638654837/download_efeyyz.jpg",
@@ -850,8 +850,8 @@
         "genre": "Israeli",
         "createdAt": 1638654792117,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 70,
         "songs": [
@@ -938,7 +938,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a6",
+        
         "name": "הדג נחש",
         "description": "להקה טובה",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638654929/download_tgtzuc.jpg",
@@ -949,8 +949,8 @@
         "genre": "Israeli",
         "createdAt": 1638654926802,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 25,
         "songs": [
@@ -1037,7 +1037,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a7",
+        
         "name": "אביב גפן",
         "description": "זמר מעולה",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638655290/download_dcrwgn.jpg",
@@ -1047,8 +1047,8 @@
         "genre": "Israeli",
         "createdAt": 1638655276765,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 1400,
         "songs": [
@@ -1135,7 +1135,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a8",
+        
         "name": "אייל גולן",
         "description": "אייל גולן",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638655440/download_jzvxgp.jpg",
@@ -1145,8 +1145,8 @@
         "genre": "Israeli",
         "createdAt": 1638655397950,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 1200,
         "songs": [
@@ -1233,7 +1233,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2a9",
+        
         "name": "Backstreet Boys",
         "description": "nice band",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638655918/download_adhbbp.jpg",
@@ -1331,7 +1331,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2aa",
+        
         "name": "Madonna",
         "description": "Madonna",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638655974/download_ekgsss.jpg",
@@ -1342,8 +1342,8 @@
         "genre": "Pop",
         "createdAt": 1638655959940,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
         },
         "likesCounter": 80,
         "songs": [
@@ -1430,7 +1430,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2ab",
+        
         "name": "Pet Shop Boys",
         "description": "Very Nice",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638656043/download_l3my7i.jpg",
@@ -1529,7 +1529,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2ac",
+        
         "name": "ABBA",
         "description": "ABBA",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638656152/abba-1_td7tez.jpg",
@@ -1540,8 +1540,8 @@
         "genre": "Pop",
         "createdAt": 1638656137573,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 90,
         "songs": [
@@ -1628,7 +1628,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2ad",
+        
         "name": "Red Hot Chili Peppers",
         "description": "red hot",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638656239/profile_vrt_raw_bytes_1587515368_10599_b0plpr.jpg",
@@ -1639,8 +1639,8 @@
         "genre": "Rock",
         "createdAt": 1638656217710,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 1234,
         "songs": [
@@ -1711,7 +1711,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2ae",
+        
         "name": "Spice Girls",
         "description": "spice girls",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638656349/4000_ofoigs.webp",
@@ -1810,7 +1810,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2af",
+        
         "name": "Skazi",
         "description": "Skazi",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638656565/mqdefault_tl5mu4.jpg",
@@ -1821,8 +1821,8 @@
         "genre": "Electronic",
         "createdAt": 1638656459697,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 1450,
         "songs": [
@@ -1861,7 +1861,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b0",
+        
         "name": "Infected Mushroom",
         "description": "infected mushroom",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638656625/ab67616d0000b273f4862b4fa494ef26fd8f199e_ufbe3v.jpg",
@@ -1904,7 +1904,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b1",
+        
         "name": "Faithless",
         "description": "I can get no sleep",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638656787/Forever_Faithless___The_Greatest_Hits_abskku.jpg",
@@ -1915,8 +1915,8 @@
         "genre": "Electronic",
         "createdAt": 1638656734959,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 80,
         "songs": [
@@ -2003,7 +2003,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b2",
+        
         "name": "OceanLab",
         "description": "OceanLab",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638656871/download_vqcegg.jpg",
@@ -2014,8 +2014,8 @@
         "genre": "Electronic",
         "createdAt": 1638656820186,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 40,
         "songs": [
@@ -2102,7 +2102,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b3",
+        
         "name": "Samba",
         "description": "Smaba",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638685383/HK_TST_night_%E6%9F%8F%E9%BA%97%E8%B3%BC%E7%89%A9%E5%A4%A7%E9%81%93_Park_Lane_Shopper_s_Boulevard_%E5%B7%B4%E8%A5%BF_Brasil_%E6%A3%AE%E5%B7%B4%E8%88%9E%E5%A8%98_Samba_female_dancers_Nov-2010_02_ypwqs7.jpg",
@@ -2112,8 +2112,8 @@
         "genre": "Mix",
         "createdAt": 1638685316965,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 130,
         "songs": [
@@ -2192,7 +2192,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b4",
+        
         "name": "Enrique",
         "description": "Enrique",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638685484/Enrique-Iglesias_xsaco5.jpg",
@@ -2203,8 +2203,8 @@
         "genre": "Mix",
         "createdAt": 1638685460721,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
         },
         "likesCounter": 234,
         "songs": [
@@ -2291,7 +2291,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b5",
+        
         "name": "Bob Marley",
         "description": "Bob Marley",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638685592/download_ycsxtb.jpg",
@@ -2302,8 +2302,8 @@
         "genre": "Mix",
         "createdAt": 1638685562217,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 230,
         "songs": [
@@ -2390,7 +2390,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b6",
+        
         "name": "The Prodigy",
         "description": "The Prodigy",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638696426/images_xof1f0.jpg",
@@ -2401,8 +2401,8 @@
         "genre": "Electronic",
         "createdAt": 1638696365150,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
         },
         "likesCounter": 120,
         "songs": [
@@ -2499,7 +2499,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b7",
+        
         "name": "AC/DC",
         "description": "AC/DC",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638696539/Screen-Shot-2020-10-01-at-8.56.44-AM_mh33vi.png",
@@ -2511,8 +2511,8 @@
         "genre": "Rock",
         "createdAt": 1638696504299,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 89,
         "songs": [
@@ -2609,7 +2609,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b8",
+        
         "name": "Led Zeppelin",
         "description": "Led Zeppelin",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638696589/images_aa1bzb.jpg",
@@ -2621,8 +2621,8 @@
         "genre": "Rock",
         "createdAt": 1638696586820,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 1268,
         "songs": [
@@ -2719,7 +2719,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2b9",
+        
         "name": "The Beatles",
         "description": "The Beatles",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638696695/abbey-road_tcm25-594684_r74wav.jpg",
@@ -2828,7 +2828,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2ba",
+        
         "name": "Pink Floyd",
         "description": "Great Band",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638696782/download_lzaa8k.jpg",
@@ -2839,8 +2839,8 @@
         "genre": "Prog",
         "createdAt": 1638696726403,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
         },
         "likesCounter": 1325,
         "songs": [
@@ -2937,7 +2937,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2bb",
+        
         "name": "כוורת",
         "description": "כוורת",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638696964/maxresdefault_kiqyem.jpg",
@@ -2948,8 +2948,8 @@
         "genre": "Israeli",
         "createdAt": 1638696885630,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 1670,
         "songs": [
@@ -3046,7 +3046,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2bc",
+        
         "name": "איפה הילד",
         "description": "איפה הילד",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638696994/sddefault_yqloxa.jpg",
@@ -3058,8 +3058,8 @@
         "genre": "Israeli",
         "createdAt": 1638696988521,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 99,
         "songs": [
@@ -3156,7 +3156,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2bd",
+        
         "name": "רוקפור",
         "description": "רוקפור",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697074/unnamed_luv1cc.jpg",
@@ -3265,7 +3265,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2be",
+        
         "name": "היהודים",
         "description": "היהודים",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697133/download_e1c8tn.jpg",
@@ -3374,7 +3374,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2bf",
+        
         "name": "Drake",
         "description": "Drake",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697274/drake_blypaz.webp",
@@ -3385,8 +3385,8 @@
         "genre": "Hip Hop",
         "createdAt": 1638697243714,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 590,
         "songs": [
@@ -3483,7 +3483,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c0",
+        
         "name": "2Pac",
         "description": "2Pac",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697328/download_fpleju.jpg",
@@ -3493,8 +3493,8 @@
         "genre": "Hip Hop",
         "createdAt": 1638697295484,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 700,
         "songs": [
@@ -3591,7 +3591,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c1",
+        
         "name": "Snoop Dogg",
         "description": "Snoop Dogg",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697377/download_olaf6t.jpg",
@@ -3602,8 +3602,8 @@
         "genre": "Hip Hop",
         "createdAt": 1638697364737,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
         },
         "likesCounter": 1340,
         "songs": [
@@ -3700,7 +3700,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c2",
+        
         "name": "Dr. Dre",
         "description": "Dr. Dre",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697452/images_ffsvc3.jpg",
@@ -3809,7 +3809,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c3",
+        
         "name": "Busta Rhymes",
         "description": "Busta Rhymes",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697491/tbt_busta_wp_body_2-1024x683_zlyuzf.webp",
@@ -3819,8 +3819,8 @@
         "genre": "Hip Hop",
         "createdAt": 1638697489516,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 245,
         "songs": [
@@ -3917,7 +3917,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c4",
+        
         "name": "The Notorious B.I.G",
         "description": "The Notorious B.I.G",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697590/download_wlwrid.jpg",
@@ -4025,7 +4025,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c5",
+        
         "name": "JAY-Z",
         "description": "JAY-Z",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697641/download_xh0odo.jpg",
@@ -4036,8 +4036,8 @@
         "genre": "Hip Hop",
         "createdAt": 1638697620160,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 123,
         "songs": [
@@ -4134,7 +4134,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c6",
+        
         "name": "Wu-Tang Clan",
         "description": "Wu-Tang Clan",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697775/download_qpdjpt.jpg",
@@ -4145,8 +4145,8 @@
         "genre": "Hip Hop",
         "createdAt": 1638697694091,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 78,
         "songs": [
@@ -4243,7 +4243,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c7",
+        
         "name": "Outkast",
         "description": "Outkast",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697804/download_cblyu3.jpg",
@@ -4351,7 +4351,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c8",
+        
         "name": "Lady Gaga",
         "description": "Lady Gaga",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638697940/lady-gaga-chromatica-press-photo_tqzmac.jpg",
@@ -4361,8 +4361,8 @@
         "genre": "Pop",
         "createdAt": 1638697868429,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 45,
         "songs": [
@@ -4459,7 +4459,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2c9",
+        
         "name": "Britney Spears",
         "description": "",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638698032/britney-spears-main-sk-today-211129-66a773_ca2c5h.webp",
@@ -4470,8 +4470,8 @@
         "genre": "Pop",
         "createdAt": 1638697992629,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "likesCounter": 35,
         "songs": [
@@ -4568,7 +4568,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2ca",
+        
         "name": "Ed Sheeran",
         "description": "Ed Sheeran",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638698095/640px-Ed_Sheeran-6826__cropped_vji6ov.jpg",
@@ -4676,7 +4676,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2cb",
+        
         "name": "Gabriel & Dresden",
         "description": "Gabriel & Dresden",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638698247/264x264_rpma1t.jpg",
@@ -4748,7 +4748,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2cc",
+        
         "name": "Scooter",
         "description": "Scooter",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638698344/download_qrfa0p.jpg",
@@ -4759,8 +4759,8 @@
         "genre": "Electronic",
         "createdAt": 1638698304576,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "likesCounter": 45,
         "songs": [
@@ -4857,7 +4857,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2cd",
+        
         "name": "Talamasca",
         "description": "Talamasca",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638698458/avatars-EsiZJAyMuOPzE0g0-aDoxhw-t500x500_cphyid.jpg",
@@ -4911,7 +4911,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2ce",
+        
         "name": "The Rolling Stones",
         "description": "The Rolling Stones",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638698832/download_ozvdks.jpg",
@@ -4921,8 +4921,8 @@
         "genre": "Mix",
         "createdAt": 1638698717942,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
         },
         "likesCounter": 436,
         "songs": [
@@ -5019,7 +5019,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2cf",
+        
         "name": "Camel - Mirage",
         "description": "Camel Mirage",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638699037/download_d49bo3.jpg",
@@ -5031,8 +5031,8 @@
         "genre": "Prog",
         "createdAt": 1638699005867,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 1800,
         "songs": [
@@ -5075,7 +5075,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2d0",
+        
         "name": "Justin Timberlake",
         "description": "Justin Timberlake",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638699158/download_cisxqq.jpg",
@@ -5086,8 +5086,8 @@
         "genre": "Mix",
         "createdAt": 1638699092697,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "likesCounter": 345,
         "songs": [
@@ -5184,7 +5184,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2d1",
+        
         "name": "Elvis presley",
         "description": "Elvis presley",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638699221/unnamed_sewiiv.jpg",
@@ -5290,7 +5290,7 @@
         ]
     },
     {
-        "_id": "61b1e964ea757b2b230ab2d2",
+        
         "name": "Prince",
         "description": "Prince",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638699323/prince-prince-performing-on-stage---purple-rain-tour-photo-by-richard-e-aaronredferns2_i5wehk.jpg",
@@ -5354,7 +5354,7 @@
         ]
     },
     {
-        "_id": "61b1ecc1efe7f810cc70f6bf",
+        
         "name": "King Crimson",
         "description": "King Crimson",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639050411/download_gsbex5.jpg",
@@ -5455,7 +5455,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1ed57efe7f810cc70f6c0",
+        
         "name": "Dream Theater",
         "description": "Dream Theater",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639050568/61wEkdfHUZL._SL1425__bnkyvs.jpg",
@@ -5466,8 +5466,8 @@
         "genre": "Prog",
         "createdAt": 1639050436551,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "songs": [
             {
@@ -5564,7 +5564,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1ee1defe7f810cc70f6c1",
+        
         "name": "Gensis",
         "description": "Gensis",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639050774/download_eajuh1.jpg",
@@ -5575,8 +5575,8 @@
         "genre": "Prog",
         "createdAt": 1639050626963,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "songs": [
             {
@@ -5664,7 +5664,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1ee64efe7f810cc70f6c2",
+        
         "name": "Yes",
         "description": "Yes Band",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639050837/download_jnguma.jpg",
@@ -5675,8 +5675,8 @@
         "genre": "Prog",
         "createdAt": 1639050797085,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "songs": [
             {
@@ -5746,7 +5746,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1eeb5efe7f810cc70f6c3",
+        
         "name": "Ayreon",
         "description": "Ayreon",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639050926/download_hxpefz.jpg",
@@ -5757,8 +5757,8 @@
         "genre": "Prog",
         "createdAt": 1639050884153,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "songs": [
             {
@@ -5837,7 +5837,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1ef26efe7f810cc70f6c4",
+        
         "name": "Symphony X",
         "description": "Symphony X",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051038/unnamed_ufqkpy.jpg",
@@ -5937,7 +5937,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1ef90efe7f810cc70f6c5",
+        
         "name": "Kansas",
         "description": "Kansas",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051147/iMYj7NLnSZ5j9iR57tS4oZ_k7hotk.jpg",
@@ -6028,7 +6028,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f027efe7f810cc70f6c6",
+        
         "name": "Vivaldi",
         "description": "Vivaldi",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051298/download_jbm6rs.jpg",
@@ -6039,8 +6039,8 @@
         "genre": "Classic",
         "createdAt": 1639051236267,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
         },
         "songs": [
             {
@@ -6110,7 +6110,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f066efe7f810cc70f6c7",
+        
         "name": "Mozart",
         "description": "Mozart",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051351/download_xz6exw.jpg",
@@ -6121,8 +6121,8 @@
         "genre": "Classic",
         "createdAt": 1639051306991,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "songs": [
             {
@@ -6201,7 +6201,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f0d9efe7f810cc70f6c8",
+        
         "name": "Bach",
         "description": "Bach",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051475/download_sn01sd.jpg",
@@ -6212,8 +6212,8 @@
         "genre": "Classic",
         "createdAt": 1639051401235,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
         },
         "songs": [
             {
@@ -6265,7 +6265,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f121efe7f810cc70f6c9",
+        
         "name": "Bach",
         "description": "Bach",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051549/download_rwubba.jpg",
@@ -6346,7 +6346,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f185efe7f810cc70f6ca",
+        
         "name": "Frédéric Chopin",
         "description": "Frédéric Chopin",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051630/licensed-image_ecjahv.jpg",
@@ -6357,8 +6357,8 @@
         "genre": "Classic",
         "createdAt": 1639051583400,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
         },
         "songs": [
             {
@@ -6419,7 +6419,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f234efe7f810cc70f6cb",
+        
         "name": "Johannes Brahms",
         "description": "Johannes Brahms",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051825/download_wohvx8.jpg",
@@ -6430,8 +6430,8 @@
         "genre": "Classic",
         "createdAt": 1639051790463,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "songs": [
             {
@@ -6501,7 +6501,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f27befe7f810cc70f6cc",
+        
         "name": "Claude Dbussy",
         "description": "Claude Dbussy",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051891/download_wzphv3.jpg",
@@ -6512,8 +6512,8 @@
         "genre": "Classic",
         "createdAt": 1639051847889,
         "createdBy": {
-            "userId": "61acb8b5ea757b2b2307d046",
-            "name": "Patefon"
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
         },
         "songs": [
             {
@@ -6583,7 +6583,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f2acefe7f810cc70f6cd",
+        
         "name": "Friedrich Händel",
         "description": "Friedrich Händel",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051941/%D7%92%D7%90%D7%95%D7%A8%D7%92-%D7%A4%D7%A8%D7%99%D7%93%D7%A8%D7%99%D7%9A-%D7%94%D7%A0%D7%93%D7%9C_eaety4.jpg",
@@ -6638,7 +6638,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f2dbefe7f810cc70f6ce",
+        
         "name": "Schubert",
         "description": "Schubert",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639051991/maxresdefault_daqggr.jpg",
@@ -6710,7 +6710,7 @@
         "likesCounter": 0
     },
     {
-        "_id": "61b1f319efe7f810cc70f6cf",
+        
         "name": "Joseph Haydn‏",
         "description": "Joseph Haydn‏",
         "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639052053/243954341_tdb0oo.webp",
@@ -6787,6 +6787,2101 @@
                 "duration": "04:24",
                 "isLiked": false,
                 "createdAt": 1639052038463
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "משינה",
+        "description": "אחלה להקה",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1638654759/download_ah5gzr.jpg",
+        "tags": [
+            "cool"
+        ],
+        "genre": "Israeli",
+        "createdAt": 1638654716773,
+        "createdBy": {
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
+        },
+        "likesCounter": 50,
+        "songs": [
+            {
+                "id": "IOSmBOsGRMc",
+                "youtubeId": "IOSmBOsGRMc",
+                "title": "משינה - רכבת לילה 1985",
+                "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/default.jpg",
+                "duration": "03:42",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "Hd9ubTcJc7E",
+                "youtubeId": "Hd9ubTcJc7E",
+                "title": "משינה - אהובתי 1988",
+                "imgUrl": "https://i.ytimg.com/vi/Hd9ubTcJc7E/default.jpg",
+                "duration": "03:29",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "LWD30iw7Diw",
+                "youtubeId": "LWD30iw7Diw",
+                "title": "משינה - היא התווכחה איתו שעות 1986",
+                "imgUrl": "https://i.ytimg.com/vi/LWD30iw7Diw/default.jpg",
+                "duration": "04:53",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "RbF1hwyIFYA",
+                "youtubeId": "RbF1hwyIFYA",
+                "title": "משינה - בלדה לסוכן כפול",
+                "imgUrl": "https://i.ytimg.com/vi/RbF1hwyIFYA/default.jpg",
+                "duration": "03:09",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "PVAD3KWgQrQ",
+                "youtubeId": "PVAD3KWgQrQ",
+                "title": "משינה - אין מקום אחר - קיסריה 2003",
+                "imgUrl": "https://i.ytimg.com/vi/PVAD3KWgQrQ/default.jpg",
+                "duration": "05:11",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "CYQ3WBi_n68",
+                "youtubeId": "CYQ3WBi_n68",
+                "title": "משינה - שלח לי מלאך",
+                "imgUrl": "https://i.ytimg.com/vi/CYQ3WBi_n68/default.jpg",
+                "duration": "04:11",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "0y0gaLiyiak",
+                "youtubeId": "0y0gaLiyiak",
+                "title": "משינה - רכבת לילה לקהיר",
+                "imgUrl": "https://i.ytimg.com/vi/0y0gaLiyiak/default.jpg",
+                "duration": "03:40",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "FilQhY2Pjq0",
+                "youtubeId": "FilQhY2Pjq0",
+                "title": "משינה - הכוכבים דולקים על אש קטנה 1990",
+                "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/default.jpg",
+                "duration": "03:27",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "te21HW6oL54",
+                "youtubeId": "te21HW6oL54",
+                "title": "משינה - בדרך אל הים",
+                "imgUrl": "https://i.ytimg.com/vi/te21HW6oL54/default.jpg",
+                "duration": "04:40",
+                "createdAt": 1638683508191
+            },
+            {
+                "id": "c1kQgVUQCVo",
+                "youtubeId": "c1kQgVUQCVo",
+                "title": "משינה - נגעה בשמיים 1993",
+                "imgUrl": "https://i.ytimg.com/vi/c1kQgVUQCVo/default.jpg",
+                "duration": "03:50",
+                "createdAt": 1638683508191
+            }
+        ]
+    },
+    {
+        
+        "name": "Best Of The Monkeys",
+        "description": "Arctic!",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639095345/Arctic_Monkeys_-_AM_sootcr.png",
+        "tags": [
+            "Happy",
+            "Chill",
+            "Original"
+        ],
+        "genre": "Pop",
+        "createdAt": 1639095260714,
+        "createdBy": {
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
+        },
+        "songs": [
+            {
+                "id": "bpOSxM0rNPM",
+                "youtubeId": "bpOSxM0rNPM",
+                "title": "Arctic Monkeys - Do I Wanna Know? (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/bpOSxM0rNPM/default.jpg",
+                "duration": "04:26",
+                "isLiked": false,
+                "createdAt": 1639095273993
+            },
+            {
+                "id": "6366dxFf-Os",
+                "youtubeId": "6366dxFf-Os",
+                "title": "Arctic Monkeys - Why&#39;d You Only Call Me When You&#39;re High? (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/6366dxFf-Os/default.jpg",
+                "duration": "04:49",
+                "isLiked": false,
+                "createdAt": 1639095274809
+            },
+            {
+                "id": "N2DglZjKvBU",
+                "youtubeId": "N2DglZjKvBU",
+                "title": "Arctic Monkeys - Best Tracks",
+                "imgUrl": "https://i.ytimg.com/vi/N2DglZjKvBU/default.jpg",
+                "duration": "1H55:51",
+                "isLiked": false,
+                "createdAt": 1639095275567
+            },
+            {
+                "id": "sUQ7uQOL7A4",
+                "youtubeId": "sUQ7uQOL7A4",
+                "title": "Arctic Monkeys Greatest Hits full Album -  Best Songs of Arctic Monkeys",
+                "imgUrl": "https://i.ytimg.com/vi/sUQ7uQOL7A4/default.jpg",
+                "duration": "1H10:",
+                "isLiked": false,
+                "createdAt": 1639095276315
+            },
+            {
+                "id": "VQH8ZTgna3Q",
+                "youtubeId": "VQH8ZTgna3Q",
+                "title": "Arctic Monkeys - R U Mine? (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/VQH8ZTgna3Q/default.jpg",
+                "duration": "03:44",
+                "isLiked": false,
+                "createdAt": 1639095277495
+            },
+            {
+                "id": "ma9I9VBKPiw",
+                "youtubeId": "ma9I9VBKPiw",
+                "title": "Arctic Monkeys - Fluorescent Adolescent (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/ma9I9VBKPiw/default.jpg",
+                "duration": "03:16",
+                "isLiked": false,
+                "createdAt": 1639095278665
+            },
+            {
+                "id": "30w8DyEJ__0",
+                "youtubeId": "30w8DyEJ__0",
+                "title": "Arctic Monkeys - Brianstorm (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/30w8DyEJ__0/default.jpg",
+                "duration": "03:02",
+                "isLiked": false,
+                "createdAt": 1639095279543
+            },
+            {
+                "id": "Nj8r3qmOoZ8",
+                "youtubeId": "Nj8r3qmOoZ8",
+                "title": "Arctic Monkeys - Arabella (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/Nj8r3qmOoZ8/default.jpg",
+                "duration": "04:11",
+                "isLiked": false,
+                "createdAt": 1639095280681
+            },
+            {
+                "id": "nyuo9-OjNNg",
+                "youtubeId": "nyuo9-OjNNg",
+                "title": "I Wanna Be Yours",
+                "imgUrl": "https://i.ytimg.com/vi/nyuo9-OjNNg/default.jpg",
+                "duration": "03:04",
+                "isLiked": false,
+                "createdAt": 1639095281865
+            },
+            {
+                "id": "Jn6-TItCazo",
+                "youtubeId": "Jn6-TItCazo",
+                "title": "Arctic Monkeys - Arabella (Official Audio)",
+                "imgUrl": "https://i.ytimg.com/vi/Jn6-TItCazo/default.jpg",
+                "duration": "03:28",
+                "isLiked": false,
+                "createdAt": 1639095283459
+            },
+            {
+                "id": "71Es-8FfATo",
+                "youtubeId": "71Es-8FfATo",
+                "title": "Arctic Monkeys - Four Out Of Five (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/71Es-8FfATo/default.jpg",
+                "duration": "05:29",
+                "isLiked": false,
+                "createdAt": 1639095284391
+            },
+            {
+                "id": "d0yA0Q1l2jo",
+                "youtubeId": "d0yA0Q1l2jo",
+                "title": "Alex Turner - Submarine (Full Album)",
+                "imgUrl": "https://i.ytimg.com/vi/d0yA0Q1l2jo/default.jpg",
+                "duration": "19:01",
+                "isLiked": false,
+                "createdAt": 1639095292309
+            },
+            {
+                "id": "GmOxB-gXhs4",
+                "youtubeId": "GmOxB-gXhs4",
+                "title": "Piledriver waltz",
+                "imgUrl": "https://i.ytimg.com/vi/GmOxB-gXhs4/default.jpg",
+                "duration": "03:25",
+                "isLiked": false,
+                "createdAt": 1639095301165
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Jazz Messengers",
+        "description": "Jazz Messengers",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639127770/New_York_Scene_Blakey_b7hoqr.jpg",
+        "tags": [
+            "Happy",
+            "Sad"
+        ],
+        "genre": "Jazz",
+        "createdAt": 1639127663035,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "Cv9NSR-2DwM",
+                "youtubeId": "Cv9NSR-2DwM",
+                "title": "Art Blakey &amp; the Jazz Messengers - Moanin&#39;",
+                "imgUrl": "https://i.ytimg.com/vi/Cv9NSR-2DwM/default.jpg",
+                "duration": "09:42",
+                "isLiked": false,
+                "createdAt": 1639127790276
+            },
+            {
+                "id": "uKOoxgI_xfQ",
+                "youtubeId": "uKOoxgI_xfQ",
+                "title": "Moanin&#39; - Art Blakey &amp; the Jazz Messengers - Live",
+                "imgUrl": "https://i.ytimg.com/vi/uKOoxgI_xfQ/default.jpg",
+                "duration": "14:17",
+                "isLiked": false,
+                "createdAt": 1639127792987
+            },
+            {
+                "id": "lBH-6CJYdJ4",
+                "youtubeId": "lBH-6CJYdJ4",
+                "title": "Art Blakey &amp; the Jazz Messengers - Free For All (1964) {Full Album}",
+                "imgUrl": "https://i.ytimg.com/vi/lBH-6CJYdJ4/default.jpg",
+                "duration": "36:49",
+                "isLiked": false,
+                "createdAt": 1639127794890
+            },
+            {
+                "id": "ADWODreyby0",
+                "youtubeId": "ADWODreyby0",
+                "title": "Art Blakey &amp; The Jazz Messengers - A Night In Tunisia",
+                "imgUrl": "https://i.ytimg.com/vi/ADWODreyby0/default.jpg",
+                "duration": "08:50",
+                "isLiked": false,
+                "createdAt": 1639127796065
+            },
+            {
+                "id": "jN8am-4Bkck",
+                "youtubeId": "jN8am-4Bkck",
+                "title": "The Jazz Messengers - At the Cafe Bohemia, Vol. 1 (1955)",
+                "imgUrl": "https://i.ytimg.com/vi/jN8am-4Bkck/default.jpg",
+                "duration": "40:25",
+                "isLiked": false,
+                "createdAt": 1639127797771
+            },
+            {
+                "id": "eOxVOO_KiU8",
+                "youtubeId": "eOxVOO_KiU8",
+                "title": "Art Blakey &amp; The Jazz Messengers - First Flight To Tokyo LP - Unboxing &amp; First Look",
+                "imgUrl": "https://i.ytimg.com/vi/eOxVOO_KiU8/default.jpg",
+                "duration": "03:17",
+                "isLiked": false,
+                "createdAt": 1639127799674
+            },
+            {
+                "id": "pAVHCgcF3oA",
+                "youtubeId": "pAVHCgcF3oA",
+                "title": "Art Blakey &amp; The Jazz Messengers ‎– Album of the Year (1981) [2015 Japanese Edition]",
+                "imgUrl": "https://i.ytimg.com/vi/pAVHCgcF3oA/default.jpg",
+                "duration": "55:04",
+                "isLiked": false,
+                "createdAt": 1639127800139
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Weather Report",
+        "description": "Weather Report",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639128028/Weather_Report_19810611_shinjuku_fn23_dfijlp.jpg",
+        "tags": [
+            "Sad",
+            "Fantastic"
+        ],
+        "genre": "Jazz",
+        "createdAt": 1639127995855,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "movVmuZ1Xlk",
+                "youtubeId": "movVmuZ1Xlk",
+                "title": "Weather Report Today | West Bengal Weather Report | Kolkata Weather | Cyclone | Cyclone Jawad",
+                "imgUrl": "https://i.ytimg.com/vi/movVmuZ1Xlk/default.jpg",
+                "duration": "02:29",
+                "isLiked": false,
+                "createdAt": 1639128046424
+            },
+            {
+                "id": "iZVEId7qq-I",
+                "youtubeId": "iZVEId7qq-I",
+                "title": "Weather Report | West Bengal Weather Report | Kolkata Weather Report | Cyclone Jawad | Weather",
+                "imgUrl": "https://i.ytimg.com/vi/iZVEId7qq-I/default.jpg",
+                "duration": "02:39",
+                "isLiked": false,
+                "createdAt": 1639128047292
+            },
+            {
+                "id": "buT1oVzVWU0",
+                "youtubeId": "buT1oVzVWU0",
+                "title": "West bengal Weather Report Today | Alipur Weather office news today bengali | Weather news today",
+                "imgUrl": "https://i.ytimg.com/vi/buT1oVzVWU0/default.jpg",
+                "duration": "02:36",
+                "isLiked": false,
+                "createdAt": 1639128048620
+            },
+            {
+                "id": "zhnpVABuUBE",
+                "youtubeId": "zhnpVABuUBE",
+                "title": "BAGYO, MABUBUO NEXTWEEK | TYPHOON LONG-RANGE OUTLOOK | GMA WEATHER UPDATE | WEATHER FORECAST TODAY",
+                "imgUrl": "https://i.ytimg.com/vi/zhnpVABuUBE/default.jpg",
+                "duration": "03:48",
+                "isLiked": false,
+                "createdAt": 1639128049774
+            },
+            {
+                "id": "qauDl9-w39U",
+                "youtubeId": "qauDl9-w39U",
+                "title": "Today Latest Weather Live Updates | Today Live Weather Report in AP, Telangana #todayweatherupdate",
+                "imgUrl": "https://i.ytimg.com/vi/qauDl9-w39U/default.jpg",
+                "duration": "02:13",
+                "isLiked": false,
+                "createdAt": 1639128050666
+            },
+            {
+                "id": "DAgqWObQRo8",
+                "youtubeId": "DAgqWObQRo8",
+                "title": "Weather Report | West Bengal Weather Report | Kolkata Weather Report | Cyclone Jawad | Weather",
+                "imgUrl": "https://i.ytimg.com/vi/DAgqWObQRo8/default.jpg",
+                "duration": "02:31",
+                "isLiked": false,
+                "createdAt": 1639128052984
+            },
+            {
+                "id": "PNer7PJsVOQ",
+                "youtubeId": "PNer7PJsVOQ",
+                "title": "JOJO Stone Ocean: Weather Report Theme | EPIC VERSION",
+                "imgUrl": "https://i.ytimg.com/vi/PNer7PJsVOQ/default.jpg",
+                "duration": "05:10",
+                "isLiked": false,
+                "createdAt": 1639128057210
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Rat Pack",
+        "description": "Rat Pack",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639128465/p21110_d_v8_aa_je8ptk.jpg",
+        "tags": [
+            "Chill",
+            "Cool"
+        ],
+        "genre": "Jazz",
+        "createdAt": 1639128404060,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "PvY8o1UYw6s",
+                "youtubeId": "PvY8o1UYw6s",
+                "title": "The Rat pack - birth of the blues live. Full comedic act and song",
+                "imgUrl": "https://i.ytimg.com/vi/PvY8o1UYw6s/default.jpg",
+                "duration": "06:07",
+                "isLiked": false,
+                "createdAt": 1639128436922
+            },
+            {
+                "id": "7kRH6gE8eS8",
+                "youtubeId": "7kRH6gE8eS8",
+                "title": "Tragic Details About The Rat Pack",
+                "imgUrl": "https://i.ytimg.com/vi/7kRH6gE8eS8/default.jpg",
+                "duration": "10:25",
+                "isLiked": false,
+                "createdAt": 1639128438412
+            },
+            {
+                "id": "CrG2BzBSuzc",
+                "youtubeId": "CrG2BzBSuzc",
+                "title": "The Rat Pack Performing Live - Frank Sinatra, Sammy Davis Jr, Dean Martin, Johnny Carson 1965",
+                "imgUrl": "https://i.ytimg.com/vi/CrG2BzBSuzc/default.jpg",
+                "duration": "04:06",
+                "isLiked": false,
+                "createdAt": 1639128439165
+            },
+            {
+                "id": "Y5guHBGtC84",
+                "youtubeId": "Y5guHBGtC84",
+                "title": "The Rat Pack Live From Las Vegas!",
+                "imgUrl": "https://i.ytimg.com/vi/Y5guHBGtC84/default.jpg",
+                "duration": "06:25",
+                "isLiked": false,
+                "createdAt": 1639128439715
+            },
+            {
+                "id": "nK7tq4RdH1I",
+                "youtubeId": "nK7tq4RdH1I",
+                "title": "Rat Pack - Birth of the Blues (Live)",
+                "imgUrl": "https://i.ytimg.com/vi/nK7tq4RdH1I/default.jpg",
+                "duration": "03:38",
+                "isLiked": false,
+                "createdAt": 1639128440677
+            },
+            {
+                "id": "zGxuG1bRLSY",
+                "youtubeId": "zGxuG1bRLSY",
+                "title": "Frank Sinatra - Fly Me To The Moon (The Rat Pack Live ) 1965",
+                "imgUrl": "https://i.ytimg.com/vi/zGxuG1bRLSY/default.jpg",
+                "duration": "02:36",
+                "isLiked": false,
+                "createdAt": 1639128441410
+            },
+            {
+                "id": "uWTG-DAWuWU",
+                "youtubeId": "uWTG-DAWuWU",
+                "title": "RATPACK - BROTHERS SISTERS",
+                "imgUrl": "https://i.ytimg.com/vi/uWTG-DAWuWU/default.jpg",
+                "duration": "03:18",
+                "isLiked": false,
+                "createdAt": 1639128442443
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "The Crusaders",
+        "description": "The Crusaders",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639129956/The_Crusaders_1977_zy9ifl.jpg",
+        "tags": [
+            "Happy",
+            "Original"
+        ],
+        "genre": "Jazz",
+        "createdAt": 1639129900360,
+        "createdBy": {
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
+        },
+        "songs": [
+            {
+                "id": "CcGzQ3ga5R8",
+                "youtubeId": "CcGzQ3ga5R8",
+                "title": "The Crusades in 5 Minutes",
+                "imgUrl": "https://i.ytimg.com/vi/CcGzQ3ga5R8/default.jpg",
+                "duration": "05:01",
+                "isLiked": false,
+                "createdAt": 1639129935461
+            },
+            {
+                "id": "X0zudTQelzI",
+                "youtubeId": "X0zudTQelzI",
+                "title": "The Crusades - Pilgrimage or Holy War?: Crash Course World History #15",
+                "imgUrl": "https://i.ytimg.com/vi/X0zudTQelzI/default.jpg",
+                "duration": "11:33",
+                "isLiked": false,
+                "createdAt": 1639129936303
+            },
+            {
+                "id": "hbHZ916QAPA",
+                "youtubeId": "hbHZ916QAPA",
+                "title": "Free As The Wind",
+                "imgUrl": "https://i.ytimg.com/vi/hbHZ916QAPA/default.jpg",
+                "duration": "06:16",
+                "isLiked": false,
+                "createdAt": 1639129937742
+            },
+            {
+                "id": "H2hqa3AX5kY",
+                "youtubeId": "H2hqa3AX5kY",
+                "title": "The Crusades Explained in 14 Minutes",
+                "imgUrl": "https://i.ytimg.com/vi/H2hqa3AX5kY/default.jpg",
+                "duration": "14:19",
+                "isLiked": false,
+                "createdAt": 1639129938238
+            },
+            {
+                "id": "HIs5B2U7US0",
+                "youtubeId": "HIs5B2U7US0",
+                "title": "Europe: The First Crusade - The People&#39;s Crusade - Extra History - #1",
+                "imgUrl": "https://i.ytimg.com/vi/HIs5B2U7US0/default.jpg",
+                "duration": "08:13",
+                "isLiked": false,
+                "createdAt": 1639129939348
+            },
+            {
+                "id": "-iVR7WLsvAg",
+                "youtubeId": "-iVR7WLsvAg",
+                "title": "Street Life - The Crusaders &#39;1979",
+                "imgUrl": "https://i.ytimg.com/vi/-iVR7WLsvAg/default.jpg",
+                "duration": "09:56",
+                "isLiked": false,
+                "createdAt": 1639129940770
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "The Bad Plus",
+        "description": "The Bad Plus",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639130018/The_Bad_Plus__Ethan_Iverson__Reid_Anderson__David_King_wvn2d8.jpg",
+        "tags": [
+            "Original",
+            "Sad"
+        ],
+        "genre": "Jazz",
+        "createdAt": 1639129977898,
+        "createdBy": {
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
+        },
+        "songs": [
+            {
+                "id": "q9hOSZGMXlI",
+                "youtubeId": "q9hOSZGMXlI",
+                "title": "The Bad Plus - Everybody Wants  To Rule The World",
+                "imgUrl": "https://i.ytimg.com/vi/q9hOSZGMXlI/default.jpg",
+                "duration": "06:32",
+                "isLiked": false,
+                "createdAt": 1639129999378
+            },
+            {
+                "id": "1j2l0HsFyvw",
+                "youtubeId": "1j2l0HsFyvw",
+                "title": "The Bad Plus - Smells Like Teen Spirit",
+                "imgUrl": "https://i.ytimg.com/vi/1j2l0HsFyvw/default.jpg",
+                "duration": "05:29",
+                "isLiked": false,
+                "createdAt": 1639130000714
+            },
+            {
+                "id": "4_6sP_dCJPY",
+                "youtubeId": "4_6sP_dCJPY",
+                "title": "The Bad Plus - Every Breath You Take - 8/10/2003 - Newport Jazz Festival (Official)",
+                "imgUrl": "https://i.ytimg.com/vi/4_6sP_dCJPY/default.jpg",
+                "duration": "07:12",
+                "isLiked": false,
+                "createdAt": 1639130002068
+            },
+            {
+                "id": "HrOn46ROUOE",
+                "youtubeId": "HrOn46ROUOE",
+                "title": "The Bad Plus &#39;Boffadem&#39; | Live Studio Session",
+                "imgUrl": "https://i.ytimg.com/vi/HrOn46ROUOE/default.jpg",
+                "duration": "06:04",
+                "isLiked": false,
+                "createdAt": 1639130003560
+            },
+            {
+                "id": "Wv59-LsG3vg",
+                "youtubeId": "Wv59-LsG3vg",
+                "title": "The Bad Plus - Comfortably Numb",
+                "imgUrl": "https://i.ytimg.com/vi/Wv59-LsG3vg/default.jpg",
+                "duration": "07:16",
+                "isLiked": false,
+                "createdAt": 1639130004510
+            },
+            {
+                "id": "CsDZNZuDk2I",
+                "youtubeId": "CsDZNZuDk2I",
+                "title": "Top The Bad Plus Songs - The Bad Plus Greatest Hits Full Album",
+                "imgUrl": "https://i.ytimg.com/vi/CsDZNZuDk2I/default.jpg",
+                "duration": "51:27",
+                "isLiked": false,
+                "createdAt": 1639130005515
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Yellowjackets",
+        "description": "Yellowjackets",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639130087/YJ_Header_pazmny.png",
+        "tags": [
+            "Sad",
+            "Curious"
+        ],
+        "genre": "Jazz",
+        "createdAt": 1639130043819,
+        "createdBy": {
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
+        },
+        "songs": [
+            {
+                "id": "mX22D65TqAs",
+                "youtubeId": "mX22D65TqAs",
+                "title": "Yellowjackets (2021) Official Trailer | SHOWTIME",
+                "imgUrl": "https://i.ytimg.com/vi/mX22D65TqAs/default.jpg",
+                "duration": "01:47",
+                "isLiked": false,
+                "createdAt": 1639130059744
+            },
+            {
+                "id": "sYznLoeS_mA",
+                "youtubeId": "sYznLoeS_mA",
+                "title": "Yellowjackets (2021) Official Trailer #2 | SHOWTIME",
+                "imgUrl": "https://i.ytimg.com/vi/sYznLoeS_mA/default.jpg",
+                "duration": "01:52",
+                "isLiked": false,
+                "createdAt": 1639130060384
+            },
+            {
+                "id": "CP4uQ2ngrv0",
+                "youtubeId": "CP4uQ2ngrv0",
+                "title": "Yellowjackets - Spirit of the West",
+                "imgUrl": "https://i.ytimg.com/vi/CP4uQ2ngrv0/default.jpg",
+                "duration": "08:25",
+                "isLiked": false,
+                "createdAt": 1639130061682
+            },
+            {
+                "id": "40tL_UDMJgg",
+                "youtubeId": "40tL_UDMJgg",
+                "title": "YellowJackets Episode 4 Recap &amp; Review",
+                "imgUrl": "https://i.ytimg.com/vi/40tL_UDMJgg/default.jpg",
+                "duration": "12:28",
+                "isLiked": false,
+                "createdAt": 1639130062480
+            },
+            {
+                "id": "Y6wc-q9zTw4",
+                "youtubeId": "Y6wc-q9zTw4",
+                "title": "YELLOWJACKETS: A Conversation with the Cast presented by SHOWTIME",
+                "imgUrl": "https://i.ytimg.com/vi/Y6wc-q9zTw4/default.jpg",
+                "duration": "49:22",
+                "isLiked": false,
+                "createdAt": 1639130064584
+            },
+            {
+                "id": "_KCY-nVfPG0",
+                "youtubeId": "_KCY-nVfPG0",
+                "title": "Yellowjackets Interview: Cast Teases The Extreme Shocks Ahead",
+                "imgUrl": "https://i.ytimg.com/vi/_KCY-nVfPG0/default.jpg",
+                "duration": "13:13",
+                "isLiked": false,
+                "createdAt": 1639130066212
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "UB40",
+        "description": "UB40",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639131583/2816_ui14kc.webp",
+        "tags": [
+            "Original",
+            "Chill"
+        ],
+        "genre": "Raggae",
+        "createdAt": 1639131537358,
+        "createdBy": {
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
+        },
+        "songs": [
+            {
+                "id": "zXt56MB-3vc",
+                "youtubeId": "zXt56MB-3vc",
+                "title": "UB40 - Red Red Wine (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/zXt56MB-3vc/default.jpg",
+                "duration": "03:24",
+                "isLiked": false,
+                "createdAt": 1639131591485
+            },
+            {
+                "id": "vUdloUqZa7w",
+                "youtubeId": "vUdloUqZa7w",
+                "title": "UB40 - (I Can&#39;t Help) Falling In Love With You (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/vUdloUqZa7w/default.jpg",
+                "duration": "03:38",
+                "isLiked": false,
+                "createdAt": 1639131592181
+            },
+            {
+                "id": "hgwr6eyLDlI",
+                "youtubeId": "hgwr6eyLDlI",
+                "title": "UB40 - Homely Girl (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/hgwr6eyLDlI/default.jpg",
+                "duration": "03:34",
+                "isLiked": false,
+                "createdAt": 1639131593299
+            },
+            {
+                "id": "3z9mwZ1K7pg",
+                "youtubeId": "3z9mwZ1K7pg",
+                "title": "UB40 - Rebel Love (Lyric Video) ft. Inner Circle",
+                "imgUrl": "https://i.ytimg.com/vi/3z9mwZ1K7pg/default.jpg",
+                "duration": "03:58",
+                "isLiked": false,
+                "createdAt": 1639131593797
+            },
+            {
+                "id": "ZBfSu4nGDfk",
+                "youtubeId": "ZBfSu4nGDfk",
+                "title": "UB40 - Kingston Town",
+                "imgUrl": "https://i.ytimg.com/vi/ZBfSu4nGDfk/default.jpg",
+                "duration": "03:44",
+                "isLiked": false,
+                "createdAt": 1639131594290
+            },
+            {
+                "id": "Q6EUNrAFHuM",
+                "youtubeId": "Q6EUNrAFHuM",
+                "title": "UB40 classic Reggae Hits",
+                "imgUrl": "https://i.ytimg.com/vi/Q6EUNrAFHuM/default.jpg",
+                "duration": "25:06",
+                "isLiked": false,
+                "createdAt": 1639131594645
+            },
+            {
+                "id": "9c4KAnQpdGw",
+                "youtubeId": "9c4KAnQpdGw",
+                "title": "UB40 - Kingston Town",
+                "imgUrl": "https://i.ytimg.com/vi/9c4KAnQpdGw/default.jpg",
+                "duration": "04:44",
+                "isLiked": false,
+                "createdAt": 1639131596783
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "SOJA",
+        "description": "SOJA",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639131724/download_zn9xdl.jpg",
+        "tags": [
+            "Cool",
+            "Chill"
+        ],
+        "genre": "Raggae",
+        "createdAt": 1639131686683,
+        "createdBy": {
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
+        },
+        "songs": [
+            {
+                "id": "X572Mp_r46E",
+                "youtubeId": "X572Mp_r46E",
+                "title": "SOJA - Rest of My Life (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/X572Mp_r46E/default.jpg",
+                "duration": "05:47",
+                "isLiked": false,
+                "createdAt": 1639131715632
+            },
+            {
+                "id": "4TZiMvJ65Wc",
+                "youtubeId": "4TZiMvJ65Wc",
+                "title": "SOJA - Not Done Yet (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/4TZiMvJ65Wc/default.jpg",
+                "duration": "04:24",
+                "isLiked": false,
+                "createdAt": 1639131716272
+            },
+            {
+                "id": "NVMYTEjFeSY",
+                "youtubeId": "NVMYTEjFeSY",
+                "title": "SOJA - The Day You Came (Live Acoustic) | Sugarshack Sessions",
+                "imgUrl": "https://i.ytimg.com/vi/NVMYTEjFeSY/default.jpg",
+                "duration": "04:56",
+                "isLiked": false,
+                "createdAt": 1639131717332
+            },
+            {
+                "id": "5izSXEdmcR8",
+                "youtubeId": "5izSXEdmcR8",
+                "title": "SOJA - She Still Loves Me (ft. Collie Buddz)",
+                "imgUrl": "https://i.ytimg.com/vi/5izSXEdmcR8/default.jpg",
+                "duration": "04:05",
+                "isLiked": false,
+                "createdAt": 1639131718101
+            },
+            {
+                "id": "hc8v0dF4MuQ",
+                "youtubeId": "hc8v0dF4MuQ",
+                "title": "SOJA - Reason To Live (Live Acoustic) | Sugarshack Sessions",
+                "imgUrl": "https://i.ytimg.com/vi/hc8v0dF4MuQ/default.jpg",
+                "duration": "04:54",
+                "isLiked": false,
+                "createdAt": 1639131718735
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Steel Pulse",
+        "description": "Steel Pulse",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132008/Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_05_sjhore.jpg",
+        "tags": [
+            "Happy",
+            "Fantastic"
+        ],
+        "genre": "Raggae",
+        "createdAt": 1639131972424,
+        "createdBy": {
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
+        },
+        "songs": [
+            {
+                "id": "LRxYg_20oPg",
+                "youtubeId": "LRxYg_20oPg",
+                "title": "Steel Pulse- Your House",
+                "imgUrl": "https://i.ytimg.com/vi/LRxYg_20oPg/default.jpg",
+                "duration": "03:43",
+                "isLiked": false,
+                "createdAt": 1639131984667
+            },
+            {
+                "id": "zRc7KUcIK8o",
+                "youtubeId": "zRc7KUcIK8o",
+                "title": "Steel Pulse - Roller Skates",
+                "imgUrl": "https://i.ytimg.com/vi/zRc7KUcIK8o/default.jpg",
+                "duration": "04:57",
+                "isLiked": false,
+                "createdAt": 1639131985269
+            },
+            {
+                "id": "4nony-xB3tE",
+                "youtubeId": "4nony-xB3tE",
+                "title": "Chant A Psalm",
+                "imgUrl": "https://i.ytimg.com/vi/4nony-xB3tE/default.jpg",
+                "duration": "04:31",
+                "isLiked": false,
+                "createdAt": 1639131985736
+            },
+            {
+                "id": "ZGFcUcFHxOc",
+                "youtubeId": "ZGFcUcFHxOc",
+                "title": "Steel Pulse - Bodyguard",
+                "imgUrl": "https://i.ytimg.com/vi/ZGFcUcFHxOc/default.jpg",
+                "duration": "04:31",
+                "isLiked": false,
+                "createdAt": 1639131987394
+            },
+            {
+                "id": "2jJF0eBoPi8",
+                "youtubeId": "2jJF0eBoPi8",
+                "title": "Steppin&#39; Out",
+                "imgUrl": "https://i.ytimg.com/vi/2jJF0eBoPi8/default.jpg",
+                "duration": "04:06",
+                "isLiked": false,
+                "createdAt": 1639131987886
+            },
+            {
+                "id": "uvwQkx_5Qxg",
+                "youtubeId": "uvwQkx_5Qxg",
+                "title": "Wild Goose Chase",
+                "imgUrl": "https://i.ytimg.com/vi/uvwQkx_5Qxg/default.jpg",
+                "duration": "05:46",
+                "isLiked": false,
+                "createdAt": 1639131989403
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Black Uhuru",
+        "description": "Black Uhuru",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132082/0600753515884_BLACK_UHURU__RED__qmzz98.jpg",
+        "tags": [
+            "Original"
+        ],
+        "genre": "Raggae",
+        "createdAt": 1639132041248,
+        "createdBy": {
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
+        },
+        "songs": [
+            {
+                "id": "KWEGXb2juvM",
+                "youtubeId": "KWEGXb2juvM",
+                "title": "Black Uhuru - Guess whos coming to dinner",
+                "imgUrl": "https://i.ytimg.com/vi/KWEGXb2juvM/default.jpg",
+                "duration": "06:01",
+                "isLiked": false,
+                "createdAt": 1639132059515
+            },
+            {
+                "id": "Qd2Zcj1flw8",
+                "youtubeId": "Qd2Zcj1flw8",
+                "title": "Black Uhuru: NPR Music Tiny Desk Concert",
+                "imgUrl": "https://i.ytimg.com/vi/Qd2Zcj1flw8/default.jpg",
+                "duration": "15:46",
+                "isLiked": false,
+                "createdAt": 1639132060363
+            },
+            {
+                "id": "NNkqTOWOlkg",
+                "youtubeId": "NNkqTOWOlkg",
+                "title": "Black Uhuru - Plastic Smile [12&#39;&#39; Version]",
+                "imgUrl": "https://i.ytimg.com/vi/NNkqTOWOlkg/default.jpg",
+                "duration": "07:17",
+                "isLiked": false,
+                "createdAt": 1639132061545
+            },
+            {
+                "id": "8vCumnMX1HU",
+                "youtubeId": "8vCumnMX1HU",
+                "title": "Black Uhuru - Sinsemilla",
+                "imgUrl": "https://i.ytimg.com/vi/8vCumnMX1HU/default.jpg",
+                "duration": "05:16",
+                "isLiked": false,
+                "createdAt": 1639132062587
+            },
+            {
+                "id": "PIvHUKRsWo0",
+                "youtubeId": "PIvHUKRsWo0",
+                "title": "Black Uhuru - Darkness",
+                "imgUrl": "https://i.ytimg.com/vi/PIvHUKRsWo0/default.jpg",
+                "duration": "04:44",
+                "isLiked": false,
+                "createdAt": 1639132063409
+            },
+            {
+                "id": "Pg9SYIkwzNg",
+                "youtubeId": "Pg9SYIkwzNg",
+                "title": "Black Uhuru - What Is Life [Oringinal mix]",
+                "imgUrl": "https://i.ytimg.com/vi/Pg9SYIkwzNg/default.jpg",
+                "duration": "05:51",
+                "isLiked": false,
+                "createdAt": 1639132065017
+            },
+            {
+                "id": "gslBhMiXSU4",
+                "youtubeId": "gslBhMiXSU4",
+                "title": "Black Uhuru - Puff She Puff",
+                "imgUrl": "https://i.ytimg.com/vi/gslBhMiXSU4/default.jpg",
+                "duration": "05:14",
+                "isLiked": false,
+                "createdAt": 1639132065544
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Black Uhuru",
+        "description": "Black Uhuru",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132113/A-116694-1533143119-7683.jpeg_d9l9qo.jpg",
+        "tags": [
+            "Broadcast",
+            "Sad"
+        ],
+        "genre": "Raggae",
+        "createdAt": 1639132108672,
+        "createdBy": {
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
+        },
+        "songs": [
+            {
+                "id": "KWEGXb2juvM",
+                "youtubeId": "KWEGXb2juvM",
+                "title": "Black Uhuru - Guess whos coming to dinner",
+                "imgUrl": "https://i.ytimg.com/vi/KWEGXb2juvM/default.jpg",
+                "duration": "06:01",
+                "isLiked": false,
+                "createdAt": 1639132119949
+            },
+            {
+                "id": "Qd2Zcj1flw8",
+                "youtubeId": "Qd2Zcj1flw8",
+                "title": "Black Uhuru: NPR Music Tiny Desk Concert",
+                "imgUrl": "https://i.ytimg.com/vi/Qd2Zcj1flw8/default.jpg",
+                "duration": "15:46",
+                "isLiked": false,
+                "createdAt": 1639132121035
+            },
+            {
+                "id": "NNkqTOWOlkg",
+                "youtubeId": "NNkqTOWOlkg",
+                "title": "Black Uhuru - Plastic Smile [12&#39;&#39; Version]",
+                "imgUrl": "https://i.ytimg.com/vi/NNkqTOWOlkg/default.jpg",
+                "duration": "07:17",
+                "isLiked": false,
+                "createdAt": 1639132122032
+            },
+            {
+                "id": "8vCumnMX1HU",
+                "youtubeId": "8vCumnMX1HU",
+                "title": "Black Uhuru - Sinsemilla",
+                "imgUrl": "https://i.ytimg.com/vi/8vCumnMX1HU/default.jpg",
+                "duration": "05:16",
+                "isLiked": false,
+                "createdAt": 1639132122638
+            },
+            {
+                "id": "PIvHUKRsWo0",
+                "youtubeId": "PIvHUKRsWo0",
+                "title": "Black Uhuru - Darkness",
+                "imgUrl": "https://i.ytimg.com/vi/PIvHUKRsWo0/default.jpg",
+                "duration": "04:44",
+                "isLiked": false,
+                "createdAt": 1639132123218
+            },
+            {
+                "id": "gslBhMiXSU4",
+                "youtubeId": "gslBhMiXSU4",
+                "title": "Black Uhuru - Puff She Puff",
+                "imgUrl": "https://i.ytimg.com/vi/gslBhMiXSU4/default.jpg",
+                "duration": "05:14",
+                "isLiked": false,
+                "createdAt": 1639132124247
+            },
+            {
+                "id": "EKp4yJsgZIQ",
+                "youtubeId": "EKp4yJsgZIQ",
+                "title": "Black Uhuru - Shine Eye Gal",
+                "imgUrl": "https://i.ytimg.com/vi/EKp4yJsgZIQ/default.jpg",
+                "duration": "05:55",
+                "isLiked": false,
+                "createdAt": 1639132125875
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Inner Circle",
+        "description": "Inner Circle",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132194/MV5BYzdlM2VkMzItMzFlNi00NGQxLWE1NTMtNTg1YWYxYzA2MTAwXkEyXkFqcGdeQXVyMjUyNDk2ODc_._V1__uy9sjm.jpg",
+        "tags": [
+            "Happy"
+        ],
+        "genre": "Raggae",
+        "createdAt": 1639132161477,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "uc2UEfWjvo8",
+                "youtubeId": "uc2UEfWjvo8",
+                "title": "Inner Circle - Sweat (A La La Long)",
+                "imgUrl": "https://i.ytimg.com/vi/uc2UEfWjvo8/default.jpg",
+                "duration": "04:28",
+                "isLiked": false,
+                "createdAt": 1639132176131
+            },
+            {
+                "id": "TingYha7t7Y",
+                "youtubeId": "TingYha7t7Y",
+                "title": "Inner Circle - Games People Play (Official Video HD)(Audio HD)",
+                "imgUrl": "https://i.ytimg.com/vi/TingYha7t7Y/default.jpg",
+                "duration": "03:25",
+                "isLiked": false,
+                "createdAt": 1639132176749
+            },
+            {
+                "id": "Zd68AthoNIw",
+                "youtubeId": "Zd68AthoNIw",
+                "title": "Inner Circle - Bad Boys (Video original)",
+                "imgUrl": "https://i.ytimg.com/vi/Zd68AthoNIw/default.jpg",
+                "duration": "03:51",
+                "isLiked": false,
+                "createdAt": 1639132177217
+            },
+            {
+                "id": "3z9mwZ1K7pg",
+                "youtubeId": "3z9mwZ1K7pg",
+                "title": "UB40 - Rebel Love (Lyric Video) ft. Inner Circle",
+                "imgUrl": "https://i.ytimg.com/vi/3z9mwZ1K7pg/default.jpg",
+                "duration": "03:58",
+                "isLiked": false,
+                "createdAt": 1639132178141
+            },
+            {
+                "id": "f4MRmEPNUxY",
+                "youtubeId": "f4MRmEPNUxY",
+                "title": "Inner Circle - Bad Boys",
+                "imgUrl": "https://i.ytimg.com/vi/f4MRmEPNUxY/default.jpg",
+                "duration": "03:37",
+                "isLiked": false,
+                "createdAt": 1639132179331
+            },
+            {
+                "id": "H5GR4P1Y7ls",
+                "youtubeId": "H5GR4P1Y7ls",
+                "title": "Inner Circle - Games People Play #Woodstock2016",
+                "imgUrl": "https://i.ytimg.com/vi/H5GR4P1Y7ls/default.jpg",
+                "duration": "06:50",
+                "isLiked": false,
+                "createdAt": 1639132179913
+            },
+            {
+                "id": "EJRTk73urqE",
+                "youtubeId": "EJRTk73urqE",
+                "title": "Inner Circle, Chronixx - Tenement Yard (News Carrying Dread) ft. Jacob Miller",
+                "imgUrl": "https://i.ytimg.com/vi/EJRTk73urqE/default.jpg",
+                "duration": "05:56",
+                "isLiked": false,
+                "createdAt": 1639132180320
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Santana",
+        "description": "Santana",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132262/36b4bd204c7803d0ec334b9952184e79787fbaf6_fhtscc.jpg",
+        "tags": [
+            "Chill",
+            "Original"
+        ],
+        "genre": "Latin",
+        "createdAt": 1639132213767,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "6Whgn_iE5uc",
+                "youtubeId": "6Whgn_iE5uc",
+                "title": "Santana - Smooth ft. Rob Thomas (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/6Whgn_iE5uc/default.jpg",
+                "duration": "04:17",
+                "isLiked": false,
+                "createdAt": 1639132268099
+            },
+            {
+                "id": "t6omUxqhG78",
+                "youtubeId": "t6omUxqhG78",
+                "title": "Santana - Corazon Espinado ft. Mana (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/t6omUxqhG78/default.jpg",
+                "duration": "04:36",
+                "isLiked": false,
+                "createdAt": 1639132270607
+            },
+            {
+                "id": "nPLV7lGbmT4",
+                "youtubeId": "nPLV7lGbmT4",
+                "title": "Santana - Maria Maria ft. The Product G&amp;B (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/nPLV7lGbmT4/default.jpg",
+                "duration": "04:21",
+                "isLiked": false,
+                "createdAt": 1639132271157
+            },
+            {
+                "id": "9wT1s96JIb0",
+                "youtubeId": "9wT1s96JIb0",
+                "title": "Santana - Black Magic Woman (Official Audio)",
+                "imgUrl": "https://i.ytimg.com/vi/9wT1s96JIb0/default.jpg",
+                "duration": "05:22",
+                "isLiked": false,
+                "createdAt": 1639132272465
+            },
+            {
+                "id": "J7ATTjg7tpE",
+                "youtubeId": "J7ATTjg7tpE",
+                "title": "Santana - Oye Como Va (Audio)",
+                "imgUrl": "https://i.ytimg.com/vi/J7ATTjg7tpE/default.jpg",
+                "duration": "04:19",
+                "isLiked": false,
+                "createdAt": 1639132273251
+            },
+            {
+                "id": "fQ9nQNx0KEs",
+                "youtubeId": "fQ9nQNx0KEs",
+                "title": "Santana - Into The Night (Video) ft. Chad Kroeger",
+                "imgUrl": "https://i.ytimg.com/vi/fQ9nQNx0KEs/default.jpg",
+                "duration": "03:58",
+                "isLiked": false,
+                "createdAt": 1639132274079
+            },
+            {
+                "id": "9jAQEbzsb2E",
+                "youtubeId": "9jAQEbzsb2E",
+                "title": "I PRANKED FaZe Swagg with NO AIM ASSIST",
+                "imgUrl": "https://i.ytimg.com/vi/9jAQEbzsb2E/default.jpg",
+                "duration": "13:50",
+                "isLiked": false,
+                "createdAt": 1639132275533
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Puya",
+        "description": "Puya",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132322/Puya__band__Sept_25__2010__San_Juan_Puerto_Rico_uriijt.jpg",
+        "tags": [
+            "Sad",
+            "Fantastic"
+        ],
+        "genre": "Latin",
+        "createdAt": 1639132282206,
+        "createdBy": {
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
+        },
+        "songs": [
+            {
+                "id": "_2HaThOjfUY",
+                "youtubeId": "_2HaThOjfUY",
+                "title": "Puya feat. @Eugenia Nicolae  - Lie | Official Video",
+                "imgUrl": "https://i.ytimg.com/vi/_2HaThOjfUY/default.jpg",
+                "duration": "03:26",
+                "isLiked": false,
+                "createdAt": 1639132300927
+            },
+            {
+                "id": "X_DxYliRWnU",
+                "youtubeId": "X_DxYliRWnU",
+                "title": "Puya feat. George Hora - Undeva in Balkani",
+                "imgUrl": "https://i.ytimg.com/vi/X_DxYliRWnU/default.jpg",
+                "duration": "04:12",
+                "isLiked": false,
+                "createdAt": 1639132301529
+            },
+            {
+                "id": "A-ESOXaVDYw",
+                "youtubeId": "A-ESOXaVDYw",
+                "title": "Best Of Puya | 40 min. MIX",
+                "imgUrl": "https://i.ytimg.com/vi/A-ESOXaVDYw/default.jpg",
+                "duration": "41:34",
+                "isLiked": false,
+                "createdAt": 1639132302745
+            },
+            {
+                "id": "Ny5y7USoQoA",
+                "youtubeId": "Ny5y7USoQoA",
+                "title": "PUYA feat. Kamelia -  V.I.P. (official video)",
+                "imgUrl": "https://i.ytimg.com/vi/Ny5y7USoQoA/default.jpg",
+                "duration": "03:33",
+                "isLiked": false,
+                "createdAt": 1639132303289
+            },
+            {
+                "id": "AyoV6mk74_o",
+                "youtubeId": "AyoV6mk74_o",
+                "title": "Puya - Oasis",
+                "imgUrl": "https://i.ytimg.com/vi/AyoV6mk74_o/default.jpg",
+                "duration": "03:59",
+                "isLiked": false,
+                "createdAt": 1639132304003
+            },
+            {
+                "id": "Ykl7LNRNwwI",
+                "youtubeId": "Ykl7LNRNwwI",
+                "title": "Puya feat. Andra &amp; Guz - Dorul (Videoclip Oficial)",
+                "imgUrl": "https://i.ytimg.com/vi/Ykl7LNRNwwI/default.jpg",
+                "duration": "04:39",
+                "isLiked": false,
+                "createdAt": 1639132305135
+            },
+            {
+                "id": "0pwHaOub3Is",
+                "youtubeId": "0pwHaOub3Is",
+                "title": "Puya - Fundamental",
+                "imgUrl": "https://i.ytimg.com/vi/0pwHaOub3Is/default.jpg",
+                "duration": "04:25",
+                "isLiked": false,
+                "createdAt": 1639132305799
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Kaoma",
+        "description": "Kaoma",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132387/A-226971-1226617270.jpeg_papdma.jpg",
+        "tags": [
+            "Chill"
+        ],
+        "genre": "Latin",
+        "createdAt": 1639132358429,
+        "createdBy": {
+            "userId": "61b2693618e23b4fd8f591d8",
+            "name": "Eitan"
+        },
+        "songs": [
+            {
+                "id": "iyLdoQGBchQ",
+                "youtubeId": "iyLdoQGBchQ",
+                "title": "Kaoma - Lambada (Official Video) 1989 HD",
+                "imgUrl": "https://i.ytimg.com/vi/iyLdoQGBchQ/default.jpg",
+                "duration": "03:27",
+                "isLiked": false,
+                "createdAt": 1639132361333
+            },
+            {
+                "id": "xA0YxNxI9zo",
+                "youtubeId": "xA0YxNxI9zo",
+                "title": "Kaoma - Melodie d&#39;Amour - (Official Video) HD",
+                "imgUrl": "https://i.ytimg.com/vi/xA0YxNxI9zo/default.jpg",
+                "duration": "04:07",
+                "isLiked": false,
+                "createdAt": 1639132361859
+            },
+            {
+                "id": "CA5SI0slgPs",
+                "youtubeId": "CA5SI0slgPs",
+                "title": "Kaoma - Danca Tago Mago",
+                "imgUrl": "https://i.ytimg.com/vi/CA5SI0slgPs/default.jpg",
+                "duration": "03:27",
+                "isLiked": false,
+                "createdAt": 1639132362311
+            },
+            {
+                "id": "L65TniuWxn8",
+                "youtubeId": "L65TniuWxn8",
+                "title": "*DANÇANDO LAMBADA* - KAOMA - 1989 (REMASTERIZADO)",
+                "imgUrl": "https://i.ytimg.com/vi/L65TniuWxn8/default.jpg",
+                "duration": "04:51",
+                "isLiked": false,
+                "createdAt": 1639132362753
+            },
+            {
+                "id": "DXQVkzFyYAc",
+                "youtubeId": "DXQVkzFyYAc",
+                "title": "Dançando Lambada",
+                "imgUrl": "https://i.ytimg.com/vi/DXQVkzFyYAc/default.jpg",
+                "duration": "04:47",
+                "isLiked": false,
+                "createdAt": 1639132363735
+            },
+            {
+                "id": "qe-Bgk8_Ih4",
+                "youtubeId": "qe-Bgk8_Ih4",
+                "title": "Kaoma - World Beat  Disco Completo (1989)",
+                "imgUrl": "https://i.ytimg.com/vi/qe-Bgk8_Ih4/default.jpg",
+                "duration": "48:10",
+                "isLiked": false,
+                "createdAt": 1639132364609
+            },
+            {
+                "id": "tGViEI3juJo",
+                "youtubeId": "tGViEI3juJo",
+                "title": "KAOMA - Dançando Lambada",
+                "imgUrl": "https://i.ytimg.com/vi/tGViEI3juJo/default.jpg",
+                "duration": "04:41",
+                "isLiked": false,
+                "createdAt": 1639132365153
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Café Tacuba",
+        "description": "Café Tacuba",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132472/unnamed_ru5uhi.jpg",
+        "tags": [
+            "Happy",
+            "Original"
+        ],
+        "genre": "Latin",
+        "createdAt": 1639132401964,
+        "createdBy": {
+            "userId": "61b206367372df676099d613",
+            "name": "Mark"
+        },
+        "songs": [
+            {
+                "id": "98Akpf1ph2o",
+                "youtubeId": "98Akpf1ph2o",
+                "title": "Café Tacvba - Eres (Video Oficial)",
+                "imgUrl": "https://i.ytimg.com/vi/98Akpf1ph2o/default.jpg",
+                "duration": "04:24",
+                "isLiked": false,
+                "createdAt": 1639132451311
+            },
+            {
+                "id": "kIr8hsVTCzg",
+                "youtubeId": "kIr8hsVTCzg",
+                "title": "Café Tacvba - La Ingrata (Video Oficial)",
+                "imgUrl": "https://i.ytimg.com/vi/kIr8hsVTCzg/default.jpg",
+                "duration": "03:35",
+                "isLiked": false,
+                "createdAt": 1639132451933
+            },
+            {
+                "id": "u-qgYznLyYA",
+                "youtubeId": "u-qgYznLyYA",
+                "title": "Café Tacvba - Volver A Comenzar (MTV Unplugged)",
+                "imgUrl": "https://i.ytimg.com/vi/u-qgYznLyYA/default.jpg",
+                "duration": "07:52",
+                "isLiked": false,
+                "createdAt": 1639132452874
+            },
+            {
+                "id": "bRiJtAYMkv4",
+                "youtubeId": "bRiJtAYMkv4",
+                "title": "Café Tacvba - FUTURO (Video Oficial)",
+                "imgUrl": "https://i.ytimg.com/vi/bRiJtAYMkv4/default.jpg",
+                "duration": "03:07",
+                "isLiked": false,
+                "createdAt": 1639132453900
+            },
+            {
+                "id": "O70s9aV_9_Q",
+                "youtubeId": "O70s9aV_9_Q",
+                "title": "Café Tacvba: NPR Music Tiny Desk Concert",
+                "imgUrl": "https://i.ytimg.com/vi/O70s9aV_9_Q/default.jpg",
+                "duration": "18:54",
+                "isLiked": false,
+                "createdAt": 1639132454754
+            },
+            {
+                "id": "-vExohgAKGE",
+                "youtubeId": "-vExohgAKGE",
+                "title": "Café Tacvba - Como Te Extraño mi Amor (Video Oficial)",
+                "imgUrl": "https://i.ytimg.com/vi/-vExohgAKGE/default.jpg",
+                "duration": "03:52",
+                "isLiked": false,
+                "createdAt": 1639132455246
+            },
+            {
+                "id": "VfwlDbUuJ50",
+                "youtubeId": "VfwlDbUuJ50",
+                "title": "Café Tacvba - Dejate Caer",
+                "imgUrl": "https://i.ytimg.com/vi/VfwlDbUuJ50/default.jpg",
+                "duration": "05:05",
+                "isLiked": false,
+                "createdAt": 1639132456079
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Pueblo Criminal",
+        "description": "Pueblo Criminal",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132669/download_negoov.jpg",
+        "tags": [],
+        "genre": "Latin",
+        "createdAt": 1639132646220,
+        "createdBy": {
+            "userId": "61acb8b5ea757b2b2307d046",
+            "name": "Patefon"
+        },
+        "songs": [
+            {
+                "id": "KfMgNSIxVBo",
+                "youtubeId": "KfMgNSIxVBo",
+                "title": "PUEBLO CRIMINAL         FCZ SUEDKURVE SONG          STIMMGWALTTÄTER 2   Fuscht in Himmel",
+                "imgUrl": "https://i.ytimg.com/vi/KfMgNSIxVBo/default.jpg",
+                "duration": "03:26",
+                "isLiked": false,
+                "createdAt": 1639132649921
+            },
+            {
+                "id": "a68ZTYHS2mw",
+                "youtubeId": "a68ZTYHS2mw",
+                "title": "Pueblo Criminal - Rebel Yell",
+                "imgUrl": "https://i.ytimg.com/vi/a68ZTYHS2mw/default.jpg",
+                "duration": "04:45",
+                "isLiked": false,
+                "createdAt": 1639132650560
+            },
+            {
+                "id": "HbNSfWsUjwM",
+                "youtubeId": "HbNSfWsUjwM",
+                "title": "PUEBLO CRIMINAL - One Way Ticket To Goa live @ Openair Krach am Bach 2011",
+                "imgUrl": "https://i.ytimg.com/vi/HbNSfWsUjwM/default.jpg",
+                "duration": "05:32",
+                "isLiked": false,
+                "createdAt": 1639132651075
+            },
+            {
+                "id": "aqny4bkQ7ig",
+                "youtubeId": "aqny4bkQ7ig",
+                "title": "Pueblo Criminal Live 2018",
+                "imgUrl": "https://i.ytimg.com/vi/aqny4bkQ7ig/default.jpg",
+                "duration": "03:44",
+                "isLiked": false,
+                "createdAt": 1639132652212
+            },
+            {
+                "id": "FwviKC3L-LE",
+                "youtubeId": "FwviKC3L-LE",
+                "title": "Costa Rica Bang Tour 2011 - Official Video - PUEBLO CRIMINAL",
+                "imgUrl": "https://i.ytimg.com/vi/FwviKC3L-LE/default.jpg",
+                "duration": "11:46",
+                "isLiked": false,
+                "createdAt": 1639132652768
+            },
+            {
+                "id": "9YH6U2nph5Q",
+                "youtubeId": "9YH6U2nph5Q",
+                "title": "PUEBLO CRIMINAL - Trailer",
+                "imgUrl": "https://i.ytimg.com/vi/9YH6U2nph5Q/default.jpg",
+                "duration": "01:29",
+                "isLiked": false,
+                "createdAt": 1639132653398
+            },
+            {
+                "id": "ceA291-bVPc",
+                "youtubeId": "ceA291-bVPc",
+                "title": "PUEBLO CRIMINAL - Wait!",
+                "imgUrl": "https://i.ytimg.com/vi/ceA291-bVPc/default.jpg",
+                "duration": "03:16",
+                "isLiked": false,
+                "createdAt": 1639132654480
+            },
+            {
+                "id": "Z3U99CGxTdU",
+                "youtubeId": "Z3U99CGxTdU",
+                "title": "Pueblo Criminal - Jimmy The Bottle",
+                "imgUrl": "https://i.ytimg.com/vi/Z3U99CGxTdU/default.jpg",
+                "duration": "04:16",
+                "isLiked": false,
+                "createdAt": 1639132655453
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Company B",
+        "description": "Company B",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132715/CompanyB_nf86id.jpg",
+        "tags": [
+            "Broadcast"
+        ],
+        "genre": "Latin",
+        "createdAt": 1639132690924,
+        "createdBy": {
+            "userId": "61acb8b5ea757b2b2307d046",
+            "name": "Patefon"
+        },
+        "songs": [
+            {
+                "id": "-b-6ksMdkrU",
+                "youtubeId": "-b-6ksMdkrU",
+                "title": "Company B - Fascinated",
+                "imgUrl": "https://i.ytimg.com/vi/-b-6ksMdkrU/default.jpg",
+                "duration": "03:44",
+                "isLiked": false,
+                "createdAt": 1639132695990
+            },
+            {
+                "id": "xrD9rCR-0rU",
+                "youtubeId": "xrD9rCR-0rU",
+                "title": "Company B.--Fascinated (Club Version) (Videoclip S-L 1986) HD",
+                "imgUrl": "https://i.ytimg.com/vi/xrD9rCR-0rU/default.jpg",
+                "duration": "07:01",
+                "isLiked": false,
+                "createdAt": 1639132696504
+            },
+            {
+                "id": "OfWc52smNs8",
+                "youtubeId": "OfWc52smNs8",
+                "title": "Boogie Woogie Bugle Boy - The Andrews Sisters  (lyrics in description)",
+                "imgUrl": "https://i.ytimg.com/vi/OfWc52smNs8/default.jpg",
+                "duration": "02:46",
+                "isLiked": false,
+                "createdAt": 1639132696968
+            },
+            {
+                "id": "YAnp2gFp86k",
+                "youtubeId": "YAnp2gFp86k",
+                "title": "(1987) Company B - Full Circle HQ",
+                "imgUrl": "https://i.ytimg.com/vi/YAnp2gFp86k/default.jpg",
+                "duration": "04:14",
+                "isLiked": false,
+                "createdAt": 1639132698072
+            },
+            {
+                "id": "ZIQ090mouLk",
+                "youtubeId": "ZIQ090mouLk",
+                "title": "Company B - Perfect Lover",
+                "imgUrl": "https://i.ytimg.com/vi/ZIQ090mouLk/default.jpg",
+                "duration": "03:24",
+                "isLiked": false,
+                "createdAt": 1639132699135
+            },
+            {
+                "id": "e8-7TO4Wek8",
+                "youtubeId": "e8-7TO4Wek8",
+                "title": "Company B   Perfect Lover Club Mix 1987",
+                "imgUrl": "https://i.ytimg.com/vi/e8-7TO4Wek8/default.jpg",
+                "duration": "07:54",
+                "isLiked": false,
+                "createdAt": 1639132699879
+            },
+            {
+                "id": "w80EkzjTJfE",
+                "youtubeId": "w80EkzjTJfE",
+                "title": "COMPANY B - Signed in your book of love. (version LMB).",
+                "imgUrl": "https://i.ytimg.com/vi/w80EkzjTJfE/default.jpg",
+                "duration": "06:18",
+                "isLiked": false,
+                "createdAt": 1639132700745
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Aventura ",
+        "description": "Aventura ",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132793/Obsesion_uiyvzp.jpg",
+        "tags": [
+            "Chill"
+        ],
+        "genre": "Latin",
+        "createdAt": 1639132751864,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "ayd3yWr4tqU",
+                "youtubeId": "ayd3yWr4tqU",
+                "title": "Aventura, Bad Bunny - Volví (Video Oficial)",
+                "imgUrl": "https://i.ytimg.com/vi/ayd3yWr4tqU/default.jpg",
+                "duration": "03:52",
+                "isLiked": false,
+                "createdAt": 1639132781278
+            },
+            {
+                "id": "8_QY5gFQUTg",
+                "youtubeId": "8_QY5gFQUTg",
+                "title": "Aventura - Obsesión (ft. Judy Santos)",
+                "imgUrl": "https://i.ytimg.com/vi/8_QY5gFQUTg/default.jpg",
+                "duration": "04:16",
+                "isLiked": false,
+                "createdAt": 1639132782314
+            },
+            {
+                "id": "elGZbcpGzdU",
+                "youtubeId": "elGZbcpGzdU",
+                "title": "Aventura - El Perdedor",
+                "imgUrl": "https://i.ytimg.com/vi/elGZbcpGzdU/default.jpg",
+                "duration": "03:54",
+                "isLiked": false,
+                "createdAt": 1639132782738
+            },
+            {
+                "id": "0XCot42qTvA",
+                "youtubeId": "0XCot42qTvA",
+                "title": "Aventura - Dile Al Amor",
+                "imgUrl": "https://i.ytimg.com/vi/0XCot42qTvA/default.jpg",
+                "duration": "04:05",
+                "isLiked": false,
+                "createdAt": 1639132783648
+            },
+            {
+                "id": "SEjw5rdyvVg",
+                "youtubeId": "SEjw5rdyvVg",
+                "title": "Aventura - Obsesion",
+                "imgUrl": "https://i.ytimg.com/vi/SEjw5rdyvVg/default.jpg",
+                "duration": "04:16",
+                "isLiked": false,
+                "createdAt": 1639132784621
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Intwine",
+        "description": "Intwine",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132858/Intwine_mr9axk.jpg",
+        "tags": [
+            "Cool"
+        ],
+        "genre": "Latin",
+        "createdAt": 1639132836640,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "NPn_kVPjpeU",
+                "youtubeId": "NPn_kVPjpeU",
+                "title": "Cruel Man - Intwine",
+                "imgUrl": "https://i.ytimg.com/vi/NPn_kVPjpeU/default.jpg",
+                "duration": "03:18",
+                "isLiked": false,
+                "createdAt": 1639132841052
+            },
+            {
+                "id": "m3EHlfF-Cbk",
+                "youtubeId": "m3EHlfF-Cbk",
+                "title": "Intwine - Happy",
+                "imgUrl": "https://i.ytimg.com/vi/m3EHlfF-Cbk/default.jpg",
+                "duration": "03:28",
+                "isLiked": false,
+                "createdAt": 1639132841665
+            },
+            {
+                "id": "SVYqjgBPaX0",
+                "youtubeId": "SVYqjgBPaX0",
+                "title": "Feel It - Intwine",
+                "imgUrl": "https://i.ytimg.com/vi/SVYqjgBPaX0/default.jpg",
+                "duration": "03:03",
+                "isLiked": false,
+                "createdAt": 1639132843718
+            },
+            {
+                "id": "2qg8VaeXVGw",
+                "youtubeId": "2qg8VaeXVGw",
+                "title": "intwine get outta my head",
+                "imgUrl": "https://i.ytimg.com/vi/2qg8VaeXVGw/default.jpg",
+                "duration": "04:30",
+                "isLiked": false,
+                "createdAt": 1639132844236
+            },
+            {
+                "id": "UpxYEdXpjcw",
+                "youtubeId": "UpxYEdXpjcw",
+                "title": "You - Intwine",
+                "imgUrl": "https://i.ytimg.com/vi/UpxYEdXpjcw/default.jpg",
+                "duration": "04:01",
+                "isLiked": false,
+                "createdAt": 1639132844688
+            },
+            {
+                "id": "KpgySxy8Pwo",
+                "youtubeId": "KpgySxy8Pwo",
+                "title": "Way Out - Intwine",
+                "imgUrl": "https://i.ytimg.com/vi/KpgySxy8Pwo/default.jpg",
+                "duration": "04:22",
+                "isLiked": false,
+                "createdAt": 1639132846496
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Spyro Gyra",
+        "description": "Spyro Gyra",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132928/huge_avatar_sekmno.jpg",
+        "tags": [
+            "Original",
+            "Fantastic"
+        ],
+        "genre": "Jazz",
+        "createdAt": 1639132869290,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "UfWfZwKEZIM",
+                "youtubeId": "UfWfZwKEZIM",
+                "title": "Spyro Gyra - Early Hits Medley: &quot;Shaker Song&quot;  &quot;Catching The Sun&quot;  &quot;Morning Dance&quot;",
+                "imgUrl": "https://i.ytimg.com/vi/UfWfZwKEZIM/default.jpg",
+                "duration": "09:35",
+                "isLiked": false,
+                "createdAt": 1639132908303
+            },
+            {
+                "id": "bVDZ5UY_oDw",
+                "youtubeId": "bVDZ5UY_oDw",
+                "title": "Spyro Gyra - Morning Dance",
+                "imgUrl": "https://i.ytimg.com/vi/bVDZ5UY_oDw/default.jpg",
+                "duration": "03:59",
+                "isLiked": false,
+                "createdAt": 1639132908925
+            },
+            {
+                "id": "rFHICdYkEeE",
+                "youtubeId": "rFHICdYkEeE",
+                "title": "Spyro Gyra - Catching The Sun",
+                "imgUrl": "https://i.ytimg.com/vi/rFHICdYkEeE/default.jpg",
+                "duration": "04:42",
+                "isLiked": false,
+                "createdAt": 1639132910445
+            },
+            {
+                "id": "7ON2Upypv6Y",
+                "youtubeId": "7ON2Upypv6Y",
+                "title": "Spyro Gyra - Morning Dance (Dubbed)",
+                "imgUrl": "https://i.ytimg.com/vi/7ON2Upypv6Y/default.jpg",
+                "duration": "03:47",
+                "isLiked": false,
+                "createdAt": 1639132911651
+            },
+            {
+                "id": "CjrpRd_j0fk",
+                "youtubeId": "CjrpRd_j0fk",
+                "title": "Spyro Gyra - Morning Dance [1979]",
+                "imgUrl": "https://i.ytimg.com/vi/CjrpRd_j0fk/default.jpg",
+                "duration": "39:48",
+                "isLiked": false,
+                "createdAt": 1639132912511
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Musical Youth",
+        "description": "Musical Youth",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639132982/220px-Musical_youth_-_the_youth_of_today_pgq8c1.jpg",
+        "tags": [
+            "Happy",
+            "Chill"
+        ],
+        "genre": "Raggae",
+        "createdAt": 1639132957644,
+        "createdBy": {
+            "userId": "61b2690518e23b4fd8f591d7",
+            "name": "Nir"
+        },
+        "songs": [
+            {
+                "id": "dFtLONl4cNc",
+                "youtubeId": "dFtLONl4cNc",
+                "title": "Musical Youth   Pass the Dutchie",
+                "imgUrl": "https://i.ytimg.com/vi/dFtLONl4cNc/default.jpg",
+                "duration": "03:20",
+                "isLiked": false,
+                "createdAt": 1639132961458
+            },
+            {
+                "id": "VsPiKkxucyQ",
+                "youtubeId": "VsPiKkxucyQ",
+                "title": "musical youth - youth of today",
+                "imgUrl": "https://i.ytimg.com/vi/VsPiKkxucyQ/default.jpg",
+                "duration": "02:59",
+                "isLiked": false,
+                "createdAt": 1639132962021
+            },
+            {
+                "id": "0L38PlN2msc",
+                "youtubeId": "0L38PlN2msc",
+                "title": "musical youth - never gonna give you up",
+                "imgUrl": "https://i.ytimg.com/vi/0L38PlN2msc/default.jpg",
+                "duration": "03:14",
+                "isLiked": false,
+                "createdAt": 1639132962509
+            },
+            {
+                "id": "Ak93pjr2mew",
+                "youtubeId": "Ak93pjr2mew",
+                "title": "Musical Youth - Pass The Dutchie (Official Video HD)(Audio HD)",
+                "imgUrl": "https://i.ytimg.com/vi/Ak93pjr2mew/default.jpg",
+                "duration": "03:24",
+                "isLiked": false,
+                "createdAt": 1639132963255
+            },
+            {
+                "id": "sK7K4YAjDP4",
+                "youtubeId": "sK7K4YAjDP4",
+                "title": "Musical Youth, The Youth of Today. (Reggae)",
+                "imgUrl": "https://i.ytimg.com/vi/sK7K4YAjDP4/default.jpg",
+                "duration": "02:56",
+                "isLiked": false,
+                "createdAt": 1639132964404
+            },
+            {
+                "id": "yc6ztgbjeiw",
+                "youtubeId": "yc6ztgbjeiw",
+                "title": "Musical Youth   007 (Shanty Town) 1983",
+                "imgUrl": "https://i.ytimg.com/vi/yc6ztgbjeiw/default.jpg",
+                "duration": "02:48",
+                "isLiked": false,
+                "createdAt": 1639132965136
+            },
+            {
+                "id": "Nc6KY7mwL50",
+                "youtubeId": "Nc6KY7mwL50",
+                "title": "Musical Youth  - Rub a dub Style",
+                "imgUrl": "https://i.ytimg.com/vi/Nc6KY7mwL50/default.jpg",
+                "duration": "04:04",
+                "isLiked": false,
+                "createdAt": 1639132965855
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Mighty Diamonds",
+        "description": "Mighty Diamonds",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639133043/MIGHTY_DIAMONDS1_eqoivm.jpg",
+        "tags": [
+            "Happy",
+            "Sad"
+        ],
+        "genre": "Raggae",
+        "createdAt": 1639133003535,
+        "createdBy": {
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
+        },
+        "songs": [
+            {
+                "id": "Il-Ah9JDN_U",
+                "youtubeId": "Il-Ah9JDN_U",
+                "title": "Mighty Diamonds - I Need A Roof",
+                "imgUrl": "https://i.ytimg.com/vi/Il-Ah9JDN_U/default.jpg",
+                "duration": "02:55",
+                "isLiked": false,
+                "createdAt": 1639133020486
+            },
+            {
+                "id": "6UgcYqwIJhE",
+                "youtubeId": "6UgcYqwIJhE",
+                "title": "MIGHTY DIAMONDS ~ RIGHT TIME ~ RIGHT VERSION (LOCKS) 1975",
+                "imgUrl": "https://i.ytimg.com/vi/6UgcYqwIJhE/default.jpg",
+                "duration": "05:50",
+                "isLiked": false,
+                "createdAt": 1639133021058
+            },
+            {
+                "id": "yv6cVi0NYpU",
+                "youtubeId": "yv6cVi0NYpU",
+                "title": "The Mighty Diamonds - Them Never Love Poor Marcus",
+                "imgUrl": "https://i.ytimg.com/vi/yv6cVi0NYpU/default.jpg",
+                "duration": "02:56",
+                "isLiked": false,
+                "createdAt": 1639133022173
+            },
+            {
+                "id": "pbLEEipMe0o",
+                "youtubeId": "pbLEEipMe0o",
+                "title": "Mighty Diamonds - Where is Garvey (lyrics)",
+                "imgUrl": "https://i.ytimg.com/vi/pbLEEipMe0o/default.jpg",
+                "duration": "03:15",
+                "isLiked": false,
+                "createdAt": 1639133023211
+            },
+            {
+                "id": "8Nkk6TztLlU",
+                "youtubeId": "8Nkk6TztLlU",
+                "title": "Come tomorrow   Mighty Diamonds Lyrical Video",
+                "imgUrl": "https://i.ytimg.com/vi/8Nkk6TztLlU/default.jpg",
+                "duration": "03:39",
+                "isLiked": false,
+                "createdAt": 1639133025027
+            },
+            {
+                "id": "Rxe4U0UqcSs",
+                "youtubeId": "Rxe4U0UqcSs",
+                "title": "The Mighty Diamonds - Run Around Child",
+                "imgUrl": "https://i.ytimg.com/vi/Rxe4U0UqcSs/default.jpg",
+                "duration": "03:30",
+                "isLiked": false,
+                "createdAt": 1639133025519
+            }
+        ],
+        "likesCounter": 0
+    },
+    {
+        
+        "name": "Calle 13",
+        "description": "Calle 13",
+        "imgUrl": "http://res.cloudinary.com/nir-cloudinary/image/upload/v1639133112/23CALLES-articleLarge_x5orlc.webp",
+        "tags": [
+            "Chill",
+            "Fantastic"
+        ],
+        "genre": "Latin",
+        "createdAt": 1639133069242,
+        "createdBy": {
+            "userId": "61b32059ea757b2b234a21c4",
+            "name": "Guest"
+        },
+        "songs": [
+            {
+                "id": "vXtJkDHEAAc",
+                "youtubeId": "vXtJkDHEAAc",
+                "title": "Calle 13 - Atrevete te te (Explicit)",
+                "imgUrl": "https://i.ytimg.com/vi/vXtJkDHEAAc/default.jpg",
+                "duration": "03:54",
+                "isLiked": false,
+                "createdAt": 1639133094323
+            },
+            {
+                "id": "DkFJE8ZdeG8",
+                "youtubeId": "DkFJE8ZdeG8",
+                "title": "Calle 13 - Latinoamérica",
+                "imgUrl": "https://i.ytimg.com/vi/DkFJE8ZdeG8/default.jpg",
+                "duration": "05:42",
+                "isLiked": false,
+                "createdAt": 1639133094887
+            },
+            {
+                "id": "ZAjASemgx3E",
+                "youtubeId": "ZAjASemgx3E",
+                "title": "Calle 13 - Muerte En Hawaii (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/ZAjASemgx3E/default.jpg",
+                "duration": "03:45",
+                "isLiked": false,
+                "createdAt": 1639133095832
+            },
+            {
+                "id": "O4f58BU_Hbs",
+                "youtubeId": "O4f58BU_Hbs",
+                "title": "Residente - René (Official Video)",
+                "imgUrl": "https://i.ytimg.com/vi/O4f58BU_Hbs/default.jpg",
+                "duration": "07:36",
+                "isLiked": false,
+                "createdAt": 1639133096315
+            },
+            {
+                "id": "HZ7mt30A6aY",
+                "youtubeId": "HZ7mt30A6aY",
+                "title": "Calle 13 - Adentro",
+                "imgUrl": "https://i.ytimg.com/vi/HZ7mt30A6aY/default.jpg",
+                "duration": "04:54",
+                "isLiked": false,
+                "createdAt": 1639133096937
+            },
+            {
+                "id": "t0DeJ5HeG8o",
+                "youtubeId": "t0DeJ5HeG8o",
+                "title": "Calle 13 - No Hay Nadie Como Tú (Video) ft. Café Tacuba",
+                "imgUrl": "https://i.ytimg.com/vi/t0DeJ5HeG8o/default.jpg",
+                "duration": "04:16",
+                "isLiked": false,
+                "createdAt": 1639133097386
+            },
+            {
+                "id": "-laefcpo2EI",
+                "youtubeId": "-laefcpo2EI",
+                "title": "Calle 13 - Atrévete-Te-Te (Video)",
+                "imgUrl": "https://i.ytimg.com/vi/-laefcpo2EI/default.jpg",
+                "duration": "03:54",
+                "isLiked": false,
+                "createdAt": 1639133098237
             }
         ],
         "likesCounter": 0

@@ -71,6 +71,10 @@ function connectSockets(http, session) {
             // console.log(coords)
             socket.broadcast.to(socket.myTopic).emit('get mousemove', coords)
         })
+
+        socket.on('send update stations', msg => {
+            socket.broadcast.to(socket.myTopic).emit('get update stations', msg)
+        })
     })
 }
 

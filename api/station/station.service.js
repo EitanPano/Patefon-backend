@@ -62,8 +62,10 @@ async function update(station) {
         var id = ObjectId(station._id)
         delete station._id
         const collection = await dbService.getCollection('station')
-        await collection.updateOne({ "_id": id }, { $set: { ...station } })
-        return station
+        // await collection.updateOne({ "_id": id }, { $set: { ...station } })
+        await collection.updateOne({ _id: id }, { $set: { ...station } })
+        station._id = ObjectId(id);
+        return station;
     } catch (err) {
         logger.error(`cannot update station ${stationId}`, err)
         throw err

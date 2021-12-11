@@ -2,23 +2,112 @@
 
 [
     {
-        "username":"Patefon",
-        "fullname" : "Patefon",
-        "password" :"1234",
+        
+        "username" : "patefon",
+        "password" : "1234",
         "isAdmin" : true,
-        "searchHistory":[],
-        "likedSongs":[],
-        "following":[]
+        "searchHistory" : [],
+        "likedSongs" : [ 
+            {
+                "id" : "hwHPkNl-cxo",
+                "youtubeId" : "hwHPkNl-cxo",
+                "title" : "אביתר בנאי - יפה כלבנה",
+                "imgUrl" : "https://i.ytimg.com/vi/hwHPkNl-cxo/default.jpg",
+                "duration" : "03:17",
+                "createdAt" : 1638683508191.0
+            }, 
+            {
+                "id" : "g_gFnDyi2Ho",
+                "youtubeId" : "g_gFnDyi2Ho",
+                "title" : "אביתר בנאי - עד מחר",
+                "imgUrl" : "https://i.ytimg.com/vi/g_gFnDyi2Ho/default.jpg",
+                "duration" : "04:28",
+                "createdAt" : 1638683508191.0
+            }
+        ],
+        "following" : [],
+        "likedStations" : [],
+        "createdStations" : [ 
+         
+        ],
+        "fullname" : "patefon patefon"
+    },
+
+    {
+        
+        "username" : "mark",
+        "password" : "$2b$10$TTsNCSDw.6tpHIhYe.SVMuBjARk3S/QvaFsGBx3OaSTCrkd84Mi2m",
+        "fullname" : "Mark Fishman",
+        "isAdmin" : false,
+        "searchHistory" : [],
+        "likedSongs" : [],
+        "following" : [],
+        "likedStations" : [],
+        "createdStations" : [ 
+        
+        ]
     },
     {
-        "username":"guest",
-        "fullname" : "guest guest",
-        "password" :"1234",
+        
+        "username" : "nir",
+        "password" : "$2b$10$PH6g7nU.QcE0njYNzSB.K.IOIfSUr.HILl9y8hwCJf4h18Eu2yB4.",
+        "fullname" : "Nir Funt",
         "isAdmin" : false,
-        "searchHistory":[],
-        "likedSongs":[],
-        "following":[]
+        "searchHistory" : [],
+        "likedSongs" : [],
+        "following" : [],
+        "likedStations" : [],
+        "createdStations" : [ 
+      
+        ]
+    },
+    {
+        
+        "username" : "eitan",
+        "password" : "$2b$10$ei7OTdWzJltl5/9ZhPdYO.Jzmie2fmMYg6NooMo95WW2UJ8lBnodi",
+        "fullname" : "Eitan Pano",
+        "isAdmin" : false,
+        "searchHistory" : [],
+        "likedSongs" : [],
+        "following" : [],
+        "likedStations" : [],
+        "createdStations" : [ 
+    
+        ]
+    },
+
+    {
+        
+        "username" : "guest",
+        "password" : "1234",
+        "isAdmin" : false,
+        "searchHistory" : [],
+        "likedSongs" : [ 
+            {
+                "id" : "hwHPkNl-cxo",
+                "youtubeId" : "hwHPkNl-cxo",
+                "title" : "אביתר בנאי - יפה כלבנה",
+                "imgUrl" : "https://i.ytimg.com/vi/hwHPkNl-cxo/default.jpg",
+                "duration" : "03:17",
+                "createdAt" : 1638683508191.0
+            }, 
+            {
+                "id" : "g_gFnDyi2Ho",
+                "youtubeId" : "g_gFnDyi2Ho",
+                "title" : "אביתר בנאי - עד מחר",
+                "imgUrl" : "https://i.ytimg.com/vi/g_gFnDyi2Ho/default.jpg",
+                "duration" : "04:28",
+                "createdAt" : 1638683508191.0
+            }
+        ],
+        "following" : [],
+        "likedStations" : [],
+        "createdStations" : [ 
+     
+        ],
+        "fullname" : "guest guest"
     }
+
 ]
 
 

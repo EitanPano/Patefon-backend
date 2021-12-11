@@ -42,6 +42,7 @@ async function addstation(req, res) {
 async function updatestation(req, res) {
   try {
     const station = req.body;
+    // console.log(station)
     const updatedstation = await stationService.update(station)
     res.json(updatedstation)
   } catch (err) {

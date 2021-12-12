@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fd2d087ae9cacec7c098e16f25776000.js"
+  "/precache-manifest.fdebaf2acb37f02c2ad99eaf988ab7b0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "patefon"});

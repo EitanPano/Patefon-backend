@@ -5,7 +5,9 @@ async function login(req, res) {
     const { username, password } = req.body
     try {
         const user = await authService.login(username, password)
+        // console.log('our user : ', user)
         req.session.user = user
+        // console.log('our session',req.session);
         res.json(user)
         console.log('logged in ',user);
     } catch (err) {
@@ -16,8 +18,6 @@ async function login(req, res) {
 
 async function signup(req, res) {
     try {
-        console.log('got to controller');
-        console.log(req.body);
         const { username, password, fullname,isAdmin,searchHistory,likedSongs,following,likedStations,createdStations,email} = req.body
         // Never log passwords
         // logger.debug(fullname + ', ' + username + ', ' + password)
@@ -26,7 +26,6 @@ async function signup(req, res) {
         const user = await authService.login(username, password)
         req.session.user = user
         res.json(user)
-        console.log('signedUp User:',user);
     } catch (err) {
         logger.error('Failed to signup ' + err)
         res.status(500).send({ err: 'Failed to signup' })

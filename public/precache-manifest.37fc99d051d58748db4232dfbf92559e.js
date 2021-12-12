@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afe0a3ca7dcb0148a64a",
-    "url": "/css/app.79500c22.css"
+    "revision": "67c75737130c9b3d5d7c",
+    "url": "/css/app.d90fce56.css"
+  },
+  {
+    "revision": "c6004be49628b1226eb31b068348d24f",
+    "url": "/fonts/LuckiestGuy-Regular.c6004be4.ttf"
   },
   {
     "revision": "da6f215b4cb4c69834928c7e26bdb0c4",
@@ -28,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/upload.427e1a06.svg"
   },
   {
-    "revision": "1d20dbe68e0f5324c8e15507552324cc",
+    "revision": "84f62f3d8f0872aeb2b7e15613fdcdb3",
     "url": "/index.html"
   },
   {
-    "revision": "afe0a3ca7dcb0148a64a",
-    "url": "/js/app.af82f47e.js"
+    "revision": "67c75737130c9b3d5d7c",
+    "url": "/js/app.985115a2.js"
   },
   {
     "revision": "8ae11e5e04da3aa45e30",

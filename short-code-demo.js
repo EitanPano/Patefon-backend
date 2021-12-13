@@ -11,44 +11,38 @@ function connectSockets(http, session) {
         socket.on('disconnect', socket => {
         })
 
-        socket.on('join station', stationId => {
+        socket.on('station-join', stationId => {
             if (socket.currStation === stationId) return;
             if (socket.currStation) {
                 socket.leave(socket.currStation)
             }
             socket.join(stationId)
             socket.currStation = stationId
-            socket.broadcast.to(socket.currStation).emit('someone joined the station', 'someone joined the station: ' + stationId)
+            socket.broadcast.to(socket.currStation).emit('station-joined', 'someone joined the station: ' + stationId)
         })
 
-        socket.on('send share-listen', playerData => {
-            socket.broadcast.to(socket.currStation).emit('get share-listen', playerData)
+        socket.on('share-player-data', playerData => {
+            socket.broadcast.to(socket.currStation).emit('share-station-player-data', playerData)
         })
     })
 }
 
-module.exports = {
-    connectSockets,
-}
-
 // FRONTEND 
-socketService.on('someone joined the station', (msg) => {
+socketService.on('station-joined', (msg) => {
     const playerData = {
         songIdx: this.songIdx,
         playList: this.playList,
         currentTime: this.currentTime,
-        songVolume: this.songVolume,
     }
-    socketService.emit('send share-listen', playerData);
+    socketService.emit('share-player-data', playerData);
 });
 
-socketService.on('get share-listen', (playerData) => {
+socketService.on('share-station-player-data', (playerData) => {
     this.player.loadPlaylist({
         playlist: playerData.playList,
         index: playerData.songIdx,
         startSeconds: playerData.currentTime,
     });
-    this.currentTime = playerData.currentTime;
     this.playVideo();
 });
 

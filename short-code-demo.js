@@ -22,7 +22,7 @@ function connectSockets(http, session) {
         })
 
         socket.on('share-player-data', playerData => {
-            socket.broadcast.to(socket.currStation).emit('share-station-player-data', playerData)
+            socket.broadcast.to(socket.currStation).emit('sync-player-data', playerData)
         })
     })
 }
@@ -37,7 +37,7 @@ socketService.on('station-joined', (msg) => {
     socketService.emit('share-player-data', playerData);
 });
 
-socketService.on('share-station-player-data', (playerData) => {
+socketService.on('sync-player-data', (playerData) => {
     this.player.loadPlaylist({
         playlist: playerData.playList,
         index: playerData.songIdx,
